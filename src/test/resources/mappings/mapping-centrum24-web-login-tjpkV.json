@@ -1,0 +1,30 @@
+{
+  "id" : "5efc2edf-aab8-3b0c-8cf5-4bd06bf9d1ed",
+  "request" : {
+    "url" : "/centrum24-web/login?x=PFKjdFSQ-zk",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-centrum24-web-login-tjpkV.txt",
+    "headers" : {
+      "Date" : "Thu, 03 Mar 2022 20:17:45 GMT",
+      "X-Frame-Options" : "SAMEORIGIN",
+      "Strict-Transport-Security" : "max-age=63072000; includeSubdomains;",
+      "X-Content-Type-Options" : "nosniff",
+      "X-XSS-Protection" : "1; mode=block",
+      "X-OneAgent-JS-Injection" : "true",
+      "Server-Timing" : "dtRpid;desc=\"-340413087\", dtSInfo;desc=\"0\"",
+      "Expires" : "Thu, 01 Jan 1970 00:00:00 GMT",
+      "Pragma" : "no-cache",
+      "Cache-Control" : "no-cache, no-store",
+      "X-UA-Compatible" : "IE=edge",
+      "Vary" : "Accept-Encoding",
+      "Keep-Alive" : "timeout=30, max=100",
+      "Content-Type" : "text/html; charset=UTF-8",
+      "Content-Language" : "en-US",
+      "Set-Cookie" : [ "AF0195d795=01725f72ae04b99ecf112136ac033214bf152623a080e7c681da7d49b94318265b0a8d06b4b3ba8f78d01416542a18c49d7b8244f9; Path=/; Domain=.www.centrum24.pl; Secure; HTTPOnly", "AF1f92ae8e027=0890ead335ab200087115ee055b97d4cf1406fdfa6c3e6992f6d203cd701a0d37bc0259ea4f3dbe608f4237aa011300080ce882806d6b7db5e14a7713ead47290712d521e33f86a044e60a9a501054c261333b4b96c043c475e975d1722d5751;Path=/" ]
+    }
+  },
+  "uuid" : "5efc2edf-aab8-3b0c-8cf5-4bd06bf9d1ed"
+}

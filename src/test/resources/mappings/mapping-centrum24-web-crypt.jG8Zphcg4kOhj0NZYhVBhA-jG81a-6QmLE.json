@@ -1,0 +1,30 @@
+{
+  "id" : "01d288df-0566-3bea-bb46-da5aeb8a10c7",
+  "request" : {
+    "url" : "/centrum24-web/crypt.jG8Zphcg4kOhj0NZYhVBhA/jG81a",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-centrum24-web-crypt.jG8Zphcg4kOhj0NZYhVBhA-jG81a-6QmLE.txt",
+    "headers" : {
+      "Date" : "Thu, 03 Mar 2022 20:18:20 GMT",
+      "X-Frame-Options" : "SAMEORIGIN",
+      "Strict-Transport-Security" : "max-age=63072000; includeSubdomains;",
+      "X-Content-Type-Options" : "nosniff",
+      "X-XSS-Protection" : "1; mode=block",
+      "X-OneAgent-JS-Injection" : "true",
+      "Server-Timing" : "dtRpid;desc=\"1027166968\", dtSInfo;desc=\"0\"",
+      "Expires" : "Thu, 01 Jan 1970 00:00:00 GMT",
+      "Pragma" : "no-cache",
+      "Cache-Control" : "no-cache, no-store",
+      "X-UA-Compatible" : "IE=edge",
+      "Vary" : "Accept-Encoding",
+      "Keep-Alive" : "timeout=30, max=100",
+      "Content-Type" : "text/html; charset=UTF-8",
+      "Content-Language" : "en-US",
+      "Set-Cookie" : [ "AF0195d795=01725f72ae04b99ecf112136ac033214bf152623a080e7c681da7d49b94318265b0a8d06b4b3ba8f78d01416542a18c49d7b8244f9; Path=/; Domain=.www.centrum24.pl; Secure; HTTPOnly", "AF1f92ae8e027=0890ead335ab20005a52b097d02d2a952c560e7b78a4653798914368136ef575c9f57cfd9e5afb670801decd7d113000c439a380652a7dbba045e6e85ff1c288051cde200a8b9595f9c432b45b1969ccecef641c42e2ada8dfc03995e4236561;Path=/" ]
+    }
+  },
+  "uuid" : "01d288df-0566-3bea-bb46-da5aeb8a10c7"
+}

@@ -1,0 +1,113 @@
+[
+  {
+    "accountName": {
+      "name": "Konto Jakie Chcę",
+      "userDefinedName": "",
+      "displayedName": "Konto Jakie Chcę"
+    },
+    "accountNumber": {
+      "number": "74109010980000000142799897",
+      "rawNumber": "74109010980000000142799897"
+    },
+    "availableFunds": 0.0,
+    "balance": -6.0,
+    "currency": "PLN",
+    "lastTransactionDate": "2022-02-10",
+    "code": 142799897,
+    "accountType": 101,
+    "accountKind": "AVISTA",
+    "interestRateUrl": null,
+    "sudeFlag": true,
+    "system": 3,
+    "accountRewardsCapableAccount": false,
+    "statementType": null,
+    "standingOrderNo": null,
+    "coOwner": false,
+    "chargesPlan": 1052,
+    "productCode": 125,
+    "vip": false,
+    "showProductFee": false,
+    "externalBankAccount": false,
+    "accessMask": 511,
+    "bankCode": null,
+    "overdueValue": 0.0,
+    "overdueActive": false,
+    "estatementAvailable": true,
+    "rewolwing": null,
+    "moneyLoan": null
+  },
+  {
+    "accountName": {
+      "name": "Konto24 walutowe w EUR",
+      "userDefinedName": "",
+      "displayedName": "Konto24 walutowe w EUR"
+    },
+    "accountNumber": {
+      "number": "83109010980000000149479543",
+      "rawNumber": "83109010980000000149479543"
+    },
+    "availableFunds": 18.71,
+    "balance": 18.71,
+    "currency": "EUR",
+    "lastTransactionDate": "2022-02-28",
+    "code": 149479543,
+    "accountType": 132,
+    "accountKind": "AVISTA",
+    "interestRateUrl": null,
+    "sudeFlag": true,
+    "system": 3,
+    "accountRewardsCapableAccount": false,
+    "statementType": null,
+    "standingOrderNo": null,
+    "coOwner": false,
+    "chargesPlan": 5053,
+    "productCode": 512,
+    "vip": false,
+    "showProductFee": false,
+    "externalBankAccount": false,
+    "accessMask": 511,
+    "bankCode": null,
+    "overdueValue": 0.0,
+    "overdueActive": false,
+    "estatementAvailable": true,
+    "rewolwing": null,
+    "moneyLoan": null
+  },
+  {
+    "accountName": {
+      "name": "Konto24 walutowe w USD",
+      "userDefinedName": "",
+      "displayedName": "Konto24 walutowe w USD"
+    },
+    "accountNumber": {
+      "number": "66109010980000000148883396",
+      "rawNumber": "66109010980000000148883396"
+    },
+    "availableFunds": 20.0,
+    "balance": 20.0,
+    "currency": "USD",
+    "lastTransactionDate": "2021-11-19",
+    "code": 148883396,
+    "accountType": 132,
+    "accountKind": "AVISTA",
+    "interestRateUrl": null,
+    "sudeFlag": true,
+    "system": 3,
+    "accountRewardsCapableAccount": false,
+    "statementType": null,
+    "standingOrderNo": null,
+    "coOwner": false,
+    "chargesPlan": 5053,
+    "productCode": 511,
+    "vip": false,
+    "showProductFee": false,
+    "externalBankAccount": false,
+    "accessMask": 511,
+    "bankCode": null,
+    "overdueValue": 0.0,
+    "overdueActive": false,
+    "estatementAvailable": true,
+    "rewolwing": null,
+    "moneyLoan": null
+  }
+]

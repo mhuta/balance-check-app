@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><ajax-response><component id="dashboardPrelimitsAdv" ><![CDATA[<div id="dashboardPrelimitsAdv">
+
+<div class="invert_trevda">
+
+ 
+
+</div>
+
+
+
+
+
+
+
+
+<a href="javascript:;" id="dashboardPrelimitsAdvInit"></a>
+</div>]]></component><header-contribution><![CDATA[<head xmlns:wicket="http://wicket.apache.org"><script type="text/javascript" id="dashboardPrelimitsAdvAjaxInit">
+/*<![CDATA[*/
+(function(){var s=centrum24.status['dashboardPrelimitsAdv']=(centrum24.status['dashboardPrelimitsAdv']||{});s.ready=true;s.success=true;})();
+/*]]]]><![CDATA[>*/
+</script>
+<script type="text/javascript" src="../jquery-ver-8FB8FEE4FCC3CC86FF6C724154C49C42.js"></script>
+<script type="text/javascript" src="../wicket-ajax-ver-04D5389C5F00ED98AD39E57EBB5AA818.js"></script>
+<script type="text/javascript" id="wicket-ajax-base-url">
+/*<![CDATA[*/
+Wicket.Ajax.baseUrl="multi/dashboard";
+/*]]]]><![CDATA[>*/
+</script>
+<script type="text/javascript" id="lazySpaInit">
+/*<![CDATA[*/
+window.centrum24=(window.centrum24||{});centrum24.status=(centrum24.status||{});
+/*]]]]><![CDATA[>*/
+</script>
+</head>]]></header-contribution><evaluate><![CDATA[(function(){Wicket.Ajax.ajax({"u":"./dashboard?x=9R3nENlxqYRbuFNPtMsLok3QLEcBbIzQkQ_oGg6n12wTqCU03cpTpWA-ZR8vqaIjpLPJToYa2YqxXpq8RKstmg","c":"dashboardPrelimitsAdvInit","fh":[function(attrs, jqXHR, errorMessage, textStatus){(function(){var s=centrum24.status['dashboardPrelimitsAdv']=(centrum24.status['dashboardPrelimitsAdv']||{});s.ready=true;s.success=false;if(s.callback){s.callback(s.success);s.callback=undefined;}})();}],"e":"click"});})();(function(){(function(){var s=centrum24.status['dashboardPrelimitsAdv']=(centrum24.status['dashboardPrelimitsAdv']||{});s.ready=true;s.success=true;if(s.callback){s.callback(s.success);s.callback=undefined;}})();})();]]></evaluate></ajax-response>

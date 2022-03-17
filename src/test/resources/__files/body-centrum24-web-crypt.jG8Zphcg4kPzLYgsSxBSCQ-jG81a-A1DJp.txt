@@ -1,0 +1,306 @@
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="pl" xml:lang="pl">
+<head><script type="text/javascript" src="/centrum24-web/ruxitagentjs_ICA2Vfqru_10233220201140653.js" data-dtconfig="app=f3c5c6e953934040|ssc=1|rcdec=1209600000|featureHash=ICA2Vfqru|vcv=2|rdnt=1|uxrgce=1|bp=3|srmcrv=10|cuc=15r85uh5|mel=100000|dpvc=1|ssv=4|lastModification=1646333901444|dtVersion=10233220201140653|srmcrl=1|tp=500,50,0,1|uxdcw=1500|agentUri=/centrum24-web/ruxitagentjs_ICA2Vfqru_10233220201140653.js|reportUrl=/centrum24-web/rb_07ab5235-d303-44ce-97c9-86cf0e042d56|rid=RID_-926380295|rpid=1087596269|domain=centrum24.pl"></script><script type="text/javascript" id="utag-sync" src="//tags.tiqcdn.com/utag/santander/pl-centrum24pl/prod/utag.sync.js"></script>
+<script type="text/javascript" id="utag" defer="defer" src="//tags.tiqcdn.com/utag/santander/pl-centrum24pl/prod/utag.js"></script>
+<script type="text/javascript" id="TealiumInitialization.js">
+/*<![CDATA[*/
+var utag_data = {
+    event_action: "View",
+    product_type: "TrustedBrowserForcedRegisterPage",
+    product_name: "TrustedBrowserForcedRegisterPage",
+    step: "0",
+    isLastStep: "true",
+    productIds: "[]",
+    profile_roles: "[]",
+    profile_type_id: "-1"
+};
+
+/*]]>*/
+</script>
+<script type="text/javascript" src="../jquery-ver-8FB8FEE4FCC3CC86FF6C724154C49C42.js"></script>
+<script type="text/javascript" src="../single-click-ver-0243B5D548484F54577007F82942DCBE.js"></script>
+<script type="text/javascript" src="../wicket-ajax-ver-04D5389C5F00ED98AD39E57EBB5AA818.js"></script>
+<script type="text/javascript" id="wicket-ajax-base-url">
+/*<![CDATA[*/
+Wicket.Ajax.baseUrl="crypt.jG8Zphcg4kPzLYgsSxBSCQ/jG81a";
+/*]]>*/
+</script>
+
+<style id="com-bzwbk-centrum24-web-pages-authentication-trustedBrowser-TrustedBrowserForcedRegisterPanel-0">
+/*<![CDATA[*/
+
+.trusted-browser-icon {
+text-align: center;
+padding-bottom: 20px;
+}
+.trusted-browser-icon img{
+width: 44px
+}
+
+/*]]>*/
+</style>
+
+<style type="text/css" id="com-bzwbk-commons-web-view-authentication-component-TopBarPanel-0">
+/*<![CDATA[*/
+
+.social_bzwbk span.aktualnosci{
+color: #ff0000;
+}
+
+/*]]>*/
+</style>
+<script type="text/javascript" src="../top-bar-ver-73264633F57DB47A42D9237555AB56B0.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/eSmart/bar/topbar.css?mn=6bd54c41" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script type="text/javascript" charset="iso-8859-2" src="/css/eSmart/script_16.js"></script>
+<link rel="shortcut icon" href="/css/eSmart/favicon.ico?mn=6bd54c41" /><script type="text/javascript" src="/javascript/style_3/axs.min.js"></script>
+<script type="text/javascript" src="../javascript/style_3/FYK14Fg1iU.min.js"></script>
+<script type="text/javascript" src="/javascript/style_3/login.min.js?v=2"></script>
+<link rel="stylesheet" type="text/css" href="../css/eSmart/logowanie-ver-38643DDEC04DED87182EA344967568CC.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/button-ver-CFFBA29161EABF7EB60C4DC1411DE0D2.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/eSmart/transfer24login-ver-F45DA177C5E26FBED495CE09CCC5C87C.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../santander-font.css" />
+<link rel="stylesheet" type="text/css" href="../opensans-font.css" />
+<script type="text/javascript" src="../self-xss-warning-ver-7CAEBB35E0CDECA1634B74DDDD0F807C.js"></script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+Wicket.Event.add(window, "domready", function(event) { 
+document.getElementById('back-button').addEventListener('click', function() { disableClick('back-button', ['confirm-button']); });;
+Wicket.Ajax.ajax({"u":"../crypt.jG8Zphcg4kOSDOJPYvuVwrhOagIY2P6_wGmgODHrO3qTehuAKEx6Dc-pH4-IeFIKQaE1qqgnjjJUM9lahp6sjjUKn7LkR4hwOvyvolI7Xx0Y_Yku-ABmt4rES2JW25zYgEWdIakWSsU/jG81a","m":"POST","c":"back-button","f":"ida","sc":"oneTimeAccess","i":"back-button--ajax-indicator","e":"click","pd":true});;
+document.getElementById('confirm-button').addEventListener('click', function() { disableClick('confirm-button', ['back-button']); });;
+Wicket.Ajax.ajax({"u":"../crypt.jG8Zphcg4kOSDOJPYvuVwrhOagIY2P6_wGmgODHrO3qTehuAKEx6Dc-pH4-IeFIKQaE1qqgnjjJUM9lahp6sjjUKn7LkR4hwOvyvolI7Xx0Y_Yku-ABmt9rwJlf_WEO1/jG81a","m":"POST","c":"confirm-button","f":"ida","sc":"confirm","i":"confirm-button--ajax-indicator","e":"click","pd":true});;
+initTopBarPanel();;
+printSelfXssWarning();;
+Wicket.Event.publish(Wicket.Event.Topic.AJAX_HANDLERS_BOUND);
+;});
+/*]]>*/
+</script>
+</head><body>
+
+
+<div id="wrapper" class="transfer24">
+
+<div id="header" class="loginPanel">
+<a rel="noreferrer noopener" class="bankLogo"  href="https://santander.pl/"><img alt="Santander" src="/css/images/santander-red.svg"/></a>
+<div class="title"></div>
+<div id="idb" class="top-bar">
+<section id="page_head">
+<div class="page_header_wrapper page">
+<header>
+<a href="#" class="contact">
+Kontakt
+</a>
+<a rel="noreferrer noopener" href="https://santander.pl/" class="order2" >
+Przejdź do santander.pl
+</a>
+<a href="#" class="signin">
+Przejdź do innych serwisów
+</a>
+</header>
+</div>
+</section>
+<section class="loginPanel contact_details">
+<a class="window-close" href="#" title="Zamknij okno"></a>
+<article>
+<p class="header">infolinia</p>
+<div class="infolinia">
+<span class="number">infolinia <a href="tel:19999"><b>1 9999</b></a></span>
+<small>Z zagranicy</small>
+<span class="small-number"><a href="tel:+48618119999">+48 61 81 19999</a></span> <br />
+<a rel="noreferrer noopener" style="font-size: 11px;" href="https://santander.pl/informacje-o-banku/kontakt/menu-infolinii/menu-infolinii-1-9999.html">Menu infolinii »</a>
+</div>
+<div class="infolinia skype">
+<span class="number"><a href="skype:infolinia.bzwbk">Skype</a></span>
+</div>
+<ul class="list">
+<li>Zastrzeganie kart, pomoc w zakresie kart, bankomatów, bankowości elektronicznej - <b>24h</b></li>
+<li>Zamawianie produktów (konta, kredyty, karty) <b>8.00 - 20.00, w dni robocze</b></li>
+<li class="disclimer">* Opłata za minutę połączenia zgodna z taryfą danego operatora.</li>
+</ul>
+</article>
+<article>
+<p class="header">Napisz do nas</p>
+<ul class="list">
+<li>Jeśli masz pytania dotyczące oferty banku, chcesz kupić produkt, przesłać swoją opinię zapraszamy do wypełnienia formularza:</li>
+<li style="padding-bottom: 10px;">
+<a rel="noreferrer noopener" class="formularz"  href="https://santander.pl/informacje-o-banku/kontakt/kontakt-zadaj-pytanie.html">Formularz kontaktowy</a>
+lub wysłania wiadomości na adres:
+</li>
+<li class="mail_kontakt">
+<a class="mail" href="mailto:kontakt@santander.pl">Wyślij email</a>
+</li>
+<li>
+Jeśli chcesz złożyć reklamację, zaloguj się do Santander internet i napisz do nas, wybierając opcję w Poczcie lub zakładce Twoje sprawy. </li>
+<li>
+Potwierdzeniem dotarcia wiadomości do Santander Bank Polska S.A. jest otrzymanie autoodpowiedzi.
+</li>
+<li class="social"><span>Dołącz do nas:</span>
+<a rel="noreferrer noopener" target="blank" href="https://pl-pl.facebook.com/santanderbankpolska" class="contact-button" onclick="javascript: trackClick(this,'/header/button/kontakt/button/facebook');return false;"><span class="fb"></span></a>
+<a rel="noreferrer noopener" target="blank" href="http://www.youtube.com/user/BankZachodniWBK" class="contact-button" onclick="javascript: trackClick(this,'/header/button/kontakt/button/youtube');return false;"><span class="yt"></span></a>
+<a rel="noreferrer noopener" onclick="javascript: trackClick(this,'/header/button/kontakt/text-link/blog');return false;" class="contact-button" href="http://blog.santander.pl" target="blank"><span class="blog"></span></a>
+<a rel="noreferrer noopener" onclick="javascript: trackClick(this,'/header/button/kontakt/text-link/bank-pomyslow');return false;" class="contact-button" href="https://bankmozliwosci.santander.pl" target="blank"><span class="bankp"></span></a>
+</li>
+</ul>
+</article>
+<article class="hide-mobile">
+<p class="header">Zgłaszanie cyberincydentów</p>
+<ul class="list">
+<li>
+Jeśli ktoś przejął Twoje dane logowania do bankowości internetowej lub padłeś ofiarą oszustwa, skontaktuj się z nami.
+</li>
+<li class="mail_kontakt">
+<a class="mail" href="mailto:csirt@santander.pl">Wyślij email</a>
+</li>
+</ul>
+<p class="header">Moja Firma plus</p>
+<ul class="list">
+<li>
+Wsparcie funkcjonalne i techniczne dla<br>użytkowników Moja Firma plus
+</li>
+<li>
+<span class="small-number"> <a href="tel:+48618565484">+48 61 856 54 84</a></span>
+</li>
+<li class="mail_kontakt">
+<a class="mail" href="mailto:MojaFirmaPlus@santander.pl">Wyślij email</a>
+</li>
+<li class="disclimer">* Opłata za minutę połączenia zgodna z taryfą danego operatora.</li>
+</ul>
+</article>
+<article>
+<p class="header">Public Relations</p>
+<ul class="list">
+<li>
+Kontakt dla dziennikarzy <br><a href="mailto:biuro.prasowe@santander.pl">biuro.prasowe@santander.pl</a>
+</li>
+<li>
+Zapytanie dot. sponsoringu <br><a href="mailto:sponsoring@santander.pl">sponsoring@santander.pl</a>
+</li>
+<li>
+Oferty marketingowe <br><a href="mailto:marketing@santander.pl">marketing@santander.pl</a>
+</li>
+<li style="padding-top: 10px;border-top: 1px solid #ECEEEF;">
+<a rel="noreferrer noopener" class="home"  href="https://santander.pl/przydatne-informacje/wyszukiwarka-placowek-i-bankomatow/wyszukiwarka-placowek-i-bankomatow.html">Znajdź oddziały i bankomaty</a>
+</li>
+</ul>
+</article>
+</section>
+<section class="signin_box">
+<a class="window-close" href="#" title="Zamknij okno"></a>
+<div class="left">
+<article>
+<div class="wrapper info_logowanie">
+Logowanie dla klientów indywidualnych i firm
+</div>
+</article>
+<article class="last hide-mobile">
+<div class="wrapper">
+<a rel="noreferrer noopener" href="https://www.centrum24.pl/centrum24-web/login" class="button_signin" onclick="javascript: trackClick(this,'/header/button/zaloguj/button/bzwbk24');return false;">Santander internet<span></span></a>
+</div>
+</article>
+<article class="last hide-mobile">
+<div class="wrapper">
+<a rel="noreferrer noopener" href="https://www.centrum24.pl/centrum24-web/login" class="button_signin" onclick="javascript: trackClick(this,'/header/button/zaloguj/button/bzwbk24');return false;">Mini Firma / Moja Firma plus<span></span></a>
+</div>
+</article>
+<article class="last">
+<div class="wrapper">
+<a rel="noreferrer noopener" href="https://ibiznes24.pl/2.0/login/#/login" class="button_signin" onclick="javascript: trackClick(this,'/header/button/zaloguj/button/ibiznes24');return false;">iBiznes24<span></span></a>
+</div>
+</article>
+<article class="last">
+<div class="wrapper">
+<a rel="noreferrer noopener" href="https://www.inwestoronline.pl/cbm/" class="button_signin" onclick="javascript: trackClick(this,'/header/button/zaloguj/button/inwestor-online');return false;">Inwestor online<span></span></a>
+</div>
+</article>
+</div>
+</section>
+</div>
+</div>
+<div id="container">
+
+<div id="content">
+
+<div class="login-wrapper">
+
+<div class="wider">
+
+<div class="logowanie loginPanel">
+<h1>Możesz logować się wygodniej</h1>
+<div id="logowanie-inner">
+<form class="nikForm" id="ida" method="post" action="../crypt.jG8Zphcg4kOSDOJPYvuVwvvqub2k4_2rHbssjVXCAkxSys1qcTzrbLS5HzEJgC9fXtm9E1qdVvOyrNez1uLjFsIZePEBIM5V7IUvTpLMgC3-HWWgYQK7gw/jG81a">
+<div class="forms wider">
+<div class="trusted-browser-icon"><img src="../../css/style_3/ico/137E84/black-info.svg"/></div>
+<h4><b>Dodaj Twój komputer do listy urządzeń zaufanych.</b> Jeśli to zrobisz, nie będziesz już potwierdzać każdego logowania narzędziem autoryzacji (smsKodem, tokenem czy Mobilną autoryzacją). <a target="_blank" style="text-decoration: underline;" href="https://www.santander.pl/lp/zaufany-komputer">Dowiedz się więcej</a><br/><br/> Jeśli nie chcesz dodawać Twojego komputera do listy urządzeń zaufanych, skorzystaj z opcji "Jednorazowy dostęp do serwisu".</h4>
+<div class="button-next">
+<input type="submit" class="button button-primary" id="confirm-button" name="confirm" value="Dodaję to urządzenie jako zaufane"/><span style="display:none;" class="wicket-ajax-indicator" id="confirm-button--ajax-indicator"><img src="../indicator-ver-75BEEBCC0A276C3974D2524B7F0619E1.gif" alt=""/></span>
+</div>
+<div class="button-next">
+<input type="submit" class="button button-link" id="back-button" name="oneTimeAccess" value="Jednorazowy dostęp do serwisu"/><span style="display:none;" class="wicket-ajax-indicator" id="back-button--ajax-indicator"><img src="../indicator-ver-75BEEBCC0A276C3974D2524B7F0619E1.gif" alt=""/></span>
+</div>
+</div>
+</form>
+</div>
+</div>
+
+</div>
+
+</div>
+<noscript>
+<div class="noscript logowanie loginPanel">
+<style type="text/css">
+/*<![CDATA[*/
+
+#logowanie {
+display: none;
+}
+h1 {
+background: none;
+}
+.noscript p {
+padding-bottom: 30px;
+}
+.noscript p, .noscript h1 {
+color: red;
+}
+#kolumna-lewa ul {
+border: 1px solid #E2E5E6;
+padding: 5px;
+}
+
+/*]]>*/
+</style>
+<h1>Zalogowanie nie jest możliwe!</h1>
+<p>Aby zalogować się do serwisu, musisz włączyć w przeglądarce wykonywanie aktywnych skryptów.</p>
+</div>
+</noscript>
+<div class="news">
+ 
+
+<div id="bezpieczenstwo" class="bottom">
+<div class="title">Bezpieczeństwo</div><ol id="bezpieczenstwoLista"><div class="item"><li></li><span>Nie udostępniaj swoich danych.</span></div><div class="item"><li></li><span> Czytaj treść smsKodów.</span></div> <div class="item"><li></li><span>Nie klikaj w linki i załączniki od nieznanych nadawców.</span></div></ol><div class="item"><a rel="noreferrer noopener" class="button button-secondary" target="_blank"  href="https://santander.pl/bankowosc-elektroniczna/bezpieczenstwo-i-prywatnosc/zelazne-zasady-bezpieczenstwa.html?utm_source=bzwbk24&utm_medium=tekst&utm_campaign=a5_2017-09-11_bezpieczenstwo-ogolny-9-2017&utm_content=log-le_bezp">Więcej</a></div>
+</div>
+
+</div>
+</div>
+
+</div>
+</div>
+
+
+
+<div id="foot">
+<div class="inner-foot">
+<div class="footContent"><strong>Santander Bank Polska S.A.</strong> z siedzibą w Warszawie, przy al. Jana Pawła II 17, 00-854 Warszawa, zarejestrowana w Sądzie Rejonowym dla m. st. Warszawy w Warszawie, XIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod nr KRS 0000008723. NIP 896-000-56-73. REGON 930041341. Wysokość kapitału zakładowego 1 021 893 140 zł. Wysokość kapitału wpłaconego 1&nbsp;021&nbsp;893&nbsp;140&nbsp;zł.</div>
+<div class="footContent">
+<div><strong>Słowniczek pojęć i definicji</strong> dotyczących usług reprezentatywnych, wynikających z rozporządzenia Ministra Rozwoju i Finansów z dnia 14 lipca 2017 r. w sprawie wykazu usług reprezentatywnych powiązanych z rachunkiem płatniczym, dostępny jest na stronie <a rel="noreferrer noopener"  href="https://santander.pl/pad.html" target="_blank">santander.pl/PAD</a> oraz w placówkach banku.</div>
+<div>
+<br />
+<a target="_blank" href="../cookie-policy">Polityka cookies</a>
+</div>
+</div>
+</div>
+</div>
+
+</body>
+</html>

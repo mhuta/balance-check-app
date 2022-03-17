@@ -1,0 +1,30 @@
+{
+  "id" : "071fd4b2-812a-3f87-b319-aeec1208f09b",
+  "request" : {
+    "url" : "/centrum24-web/multi/dashboard?x=9R3nENlxqYRbuFNPtMsLok3QLEcBbIzQkQ_oGg6n12wTqCU03cpTpWA-ZR8vqaIjpLPJToYa2YqxXpq8RKstmg&_=1646338746805",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-centrum24-web-multi-dashboard-Axz0d.xml",
+    "headers" : {
+      "Date" : "Thu, 03 Mar 2022 20:19:08 GMT",
+      "X-Frame-Options" : "SAMEORIGIN",
+      "Strict-Transport-Security" : [ "max-age=63072000; includeSubdomains;", "max-age=8640000; includeSubDomains" ],
+      "X-Content-Type-Options" : [ "nosniff", "nosniff" ],
+      "X-XSS-Protection" : [ "1; mode=block", "1; mode=block" ],
+      "X-OneAgent-JS-Injection" : "true",
+      "Server-Timing" : "dtRpid;desc=\"-207718531\", dtSInfo;desc=\"0\"",
+      "Expires" : "Thu, 01 Jan 1970 00:00:00 GMT",
+      "Pragma" : "no-cache",
+      "Cache-Control" : "no-cache, no-store",
+      "Content-Security-Policy" : "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.google-analytics.com tags.tiqcdn.com stats.g.doubleclick.net es.wtp101.com data:; img-src * es.wtp101.com data:; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src 'self' data: https://themes.googleusercontent.com https://fonts.gstatic.com; object-src 'self' https://do.centrum24.pl data:; connect-src 'self' wss://*.centrum24.pl",
+      "Vary" : "Accept-Encoding",
+      "Keep-Alive" : "timeout=30, max=94",
+      "Content-Type" : "text/xml; charset=UTF-8",
+      "Content-Language" : "en-US",
+      "Set-Cookie" : [ "AF0195d795=01725f72ae04b99ecf112136ac033214bf152623a080e7c681da7d49b94318265b0a8d06b4b3ba8f78d01416542a18c49d7b8244f9; Path=/; Domain=.www.centrum24.pl; Secure; HTTPOnly", "AF1f92ae8e027=0890ead335ab2000830efe990f8cf0430222214b3a3250096a5a6c30811b079949e4b8d33bf05e640834d2af66113000353c99a262ed4b5556ad7d57b779d0cce2da9ab83775bc5aab0a94d74a49d9aac212b42ad2624dd2e6219b626b15b47b;Path=/" ]
+    }
+  },
+  "uuid" : "071fd4b2-812a-3f87-b319-aeec1208f09b"
+}

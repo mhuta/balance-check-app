@@ -1,0 +1,30 @@
+{
+  "id" : "53dbc86d-3501-39cd-a14c-fb28edf4d4d3",
+  "request" : {
+    "url" : "/centrum24-web/login?x=CUlZFoDOx2IQl0k5PnfhNhwr-W7zXKwC7g1DdFKUkjx3nxrqt2KGPbdMBazh7byny0hhwGIbV7ZQnCsgxaf3frtKahfpGtDO",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "bodyFileName" : "body-centrum24-web-login-QFsuP.xml",
+    "headers" : {
+      "Date" : "Thu, 03 Mar 2022 20:17:49 GMT",
+      "X-Frame-Options" : "SAMEORIGIN",
+      "Strict-Transport-Security" : [ "max-age=63072000; includeSubdomains;", "max-age=8640000; includeSubDomains" ],
+      "X-Content-Type-Options" : [ "nosniff", "nosniff" ],
+      "X-XSS-Protection" : [ "1; mode=block", "1; mode=block" ],
+      "X-OneAgent-JS-Injection" : "true",
+      "Server-Timing" : "dtRpid;desc=\"-472341276\", dtSInfo;desc=\"0\"",
+      "Expires" : "Thu, 01 Jan 1970 00:00:00 GMT",
+      "Pragma" : "no-cache",
+      "Cache-Control" : "no-cache, no-store",
+      "Content-Security-Policy" : "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.google-analytics.com tags.tiqcdn.com stats.g.doubleclick.net es.wtp101.com data:; img-src * es.wtp101.com data:; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src 'self' data: https://themes.googleusercontent.com https://fonts.gstatic.com; object-src 'self' https://do.centrum24.pl data:; connect-src 'self' wss://*.centrum24.pl",
+      "Vary" : "Accept-Encoding",
+      "Keep-Alive" : "timeout=30, max=99",
+      "Content-Type" : "text/xml; charset=UTF-8",
+      "Content-Language" : "en-US",
+      "Set-Cookie" : [ "AF0195d795=01725f72ae04b99ecf112136ac033214bf152623a080e7c681da7d49b94318265b0a8d06b4b3ba8f78d01416542a18c49d7b8244f9; Path=/; Domain=.www.centrum24.pl; Secure; HTTPOnly", "AF1f92ae8e027=0890ead335ab2000d09266219a4c738cbc0993cc451d726f8dae8df9638a996cc7351856f04a1d76087691bae511300095fbad00bd4c021d4d5f091156a552a4babf7940756afe08671b6c0ca8cf59a23d8ee455619007e4b609696e9bda40c6;Path=/" ]
+    }
+  },
+  "uuid" : "53dbc86d-3501-39cd-a14c-fb28edf4d4d3"
+}

@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Santander Bank Polska S.A.</title>
+<script type="text/javascript" src="/centrum24-web/ruxitagentjs_ICA2Vfqru_10233220201140653.js" data-dtconfig="app=f3c5c6e953934040|ssc=1|rcdec=1209600000|featureHash=ICA2Vfqru|vcv=2|rdnt=1|uxrgce=1|bp=3|srmcrv=10|cuc=15r85uh5|mel=100000|dpvc=1|ssv=4|lastModification=1646333901444|dtVersion=10233220201140653|srmcrl=1|tp=500,50,0,1|uxdcw=1500|agentUri=/centrum24-web/ruxitagentjs_ICA2Vfqru_10233220201140653.js|reportUrl=/centrum24-web/rb_07ab5235-d303-44ce-97c9-86cf0e042d56|rid=RID_1072612168|rpid=1920145951|domain=centrum24.pl"></script><script type="text/javascript" id="utag-sync" src="//tags.tiqcdn.com/utag/santander/pl-centrum24pl/prod/utag.sync.js"></script>
+<script type="text/javascript" id="utag" defer="defer" src="//tags.tiqcdn.com/utag/santander/pl-centrum24pl/prod/utag.js"></script>
+<script type="text/javascript" id="TealiumInitialization.js">
+/*<![CDATA[*/
+var utag_data = {
+    event_action: "View",
+    product_type: "CrmPage",
+    product_name: "CrmPage",
+    step: "0",
+    isLastStep: "false",
+    productIds: "[]",
+    profile_roles: "[INDIVIDUAL, ACTIVE]",
+    profile_type_id: "3"
+};
+
+/*]]>*/
+</script>
+<script type="text/javascript" src="../jquery-ver-8FB8FEE4FCC3CC86FF6C724154C49C42.js"></script>
+<script type="text/javascript" src="../wicket-ajax-ver-04D5389C5F00ED98AD39E57EBB5AA818.js"></script>
+<script type="text/javascript" src="../wicket-modal-ver-3D15441E834292F7C1EAD631905AABD8.js"></script>
+<link rel="stylesheet" type="text/css" href="../wicket-modal-ver-E99D4201F0F6C5D3081AD42ACB1F22C2.css" />
+<link rel="stylesheet" type="text/css" href="../simpleModal-ver-D5FD89F8514298A81ACB30EBEDB2C0A2.css" />
+<script type="text/javascript" src="../simpleModal-ver-06139C7C7E9A9B8D9A30CFFE1BAA71FE.js"></script>
+<script type="text/javascript" id="wicket-ajax-base-url">
+/*<![CDATA[*/
+Wicket.Ajax.baseUrl="crypt.jG8Zphcg4kOvNcKtci45EQ/jG81a";
+/*]]>*/
+</script>
+<script type="text/javascript" src="../advisoronline-ver-AE3EBC8ACDA9217C950639CCD7A8D852.js"></script>
+<link rel="stylesheet" type="text/css" href="../css/advisor-ver-00F1FDCE7C3643575F84616ACC69E281.css" media="screen" />
+
+<style id="com-bzwbk-commons-web-view-info-ObsoleteBrowserNotificationPanel-0">
+/*<![CDATA[*/
+
+.obsolete-browser-container { position: relative; max-width: 860px; margin: 0 auto; }
+
+/*]]>*/
+</style>
+<script type="text/javascript" src="../modernizr-ver-8E29EEF1E1AC823AC486E76ABF208ED3.js"></script>
+<script type="text/javascript" id="coBrowsingCloseBehavior">
+/*<![CDATA[*/
+document.cookie = 'lb_stop_cobrowsing=false;domain=centrum24.pl;secure=true;path=/';
+/*]]>*/
+</script>
+<script type="text/javascript" src="../multichannel-centrum24-web-api-ver-2DB9AFB926BB48B1725C7A7F18F13783"></script>
+<link rel="stylesheet" type="text/css" href="../santander-font.css" />
+<link rel="stylesheet" type="text/css" href="../opensans-font.css" />
+<script type="text/javascript" src="../self-xss-warning-ver-7CAEBB35E0CDECA1634B74DDDD0F807C.js"></script>
+<script type="text/javascript" src="/javascript/crmService.js?mn=6bd54c41"></script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+window.crmService.prepareTransitionPage({"slotCd24":"PRZE","channel":"_WC","leadKey":"4429758120"}, "/getLeadContent?token=d6ce5ee5-1bb4-4d74-9ce3-df7f8b79f2ec-node211", "2653a7e7-fc47-47b8-9b3e-2dbbacf13f75");
+/*]]>*/
+</script>
+<link rel="stylesheet" type="text/css" href="../css/print-ver-5F76E1282370E7F95A4E8D662AA2AF27.css" media="print" />
+<link rel="shortcut icon" href="/css/eSmart/favicon.ico?mn=6bd54c41" /><link rel="stylesheet" type="text/css" href="../css/layout-ver-9667C489B18C7162F63046C47C13A241.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/nav-ver-B687AC42416A330B8D764F86EB8262CE.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/checkbox-ver-405B2BA63D0BD7C3EB889DCE6BF5A497.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/session-ver-84619060BAF4BE58B9AA918EA5C4F6AC.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/table-ver-FEEC3013CA3401B7099102FDA8E0FDDB.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/form-ver-5B3CEFA8A73982D0FDB7DF935C051837.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/button-ver-CFFBA29161EABF7EB60C4DC1411DE0D2.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/style-ver-76C61655A219D1A6E3DCE62DF0F18032.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/kendo_components-ver-C40A7DAE65DDBA7644033555A218D5F9.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/jquery-ui-components-ver-2D26520B5716871FE8DC361F63FDDB0A.css" media="screen" />
+<script type="text/javascript" src="../feedback-survey-ver-A90ACB12D93E0FE0CE13EAC4740E31F9.js"></script>
+<link rel="stylesheet" type="text/css" href="../feedback-survey-ver-F0611F1EBB456BEC6FA3C6ACD1C95106.css" />
+<script type="text/javascript" >
+/*<![CDATA[*/
+Wicket.Event.add(window, "domready", function(event) { 
+Wicket.Ajax.ajax({"u":"../crypt.jG8Zphcg4kOkmKtP2qqbbgNisO46xBh2VqF5cUUCaHjNnBWG8i6NpdQrOZpx-PBQ6IwauyM15BuE2AuDhlAsMKW4A5LO0QY9/jG81a","c":"ide","e":"click"});;
+Wicket.Ajax.ajax({"u":"../crypt.jG8Zphcg4kOkmKtP2qqbbgNisO46xBh2VqF5cUUCaHjNnBWG8i6NpdQrOZpx-PBQje9kKDHrWKk/jG81a","c":"idf","e":"click"});;
+Wicket.Ajax.ajax({"u":"../crypt.jG8Zphcg4kOkmKtP2qqbbgNisO46xBh2VqF5cUUCaHjNnBWG8i6NpTIdrMHW61O3VFwgiEGNaER45RvOsIMeq25igcoiAVuc/jG81a","c":"id10","e":"click"});;
+if(!((function(){try{return eval('var _\\u200c\\u200d = true; _\\u200c\\u200d;')}catch(e){return false;}})()&&(function(){'use strict';return !this;})()&&(function(){undefined=12345;var result=typeof undefined=='undefined';undefined=void 0;return result;})()&&Modernizr.cssanimations&&(function(){return Array.prototype.includes !== undefined})()&&Modernizr.customelements)){$('#browserNotification').css('display','block');};
+Wicket.Ajax.ajax({"u":"../crypt.jG8Zphcg4kOkmKtP2qqbbi5g7Q2saR9d8KsBYFf4Qzga0ksLPXvpWp5B3CNhr6ARGEolvHA62I4QKJrZESxELQ/jG81a","c":"reset_clock","pre":[function(attrs){return (!!attrs.event.which || attrs.event.target.id !== 'reset_clock');}],"e":"click"});;
+document.getElementById('id11').addEventListener('click', function() {document.cookie = 'lb_stop_cobrowsing=true;domain=centrum24.pl;secure=true;path=/';});;
+printSelfXssWarning();;
+function isSessionStorage(){  var storageTestKey = 'test';  var storage = window.sessionStorage;  try {     storage.length;     storage.setItem(storageTestKey, 'test');     storage.removeItem(storageTestKey);  } catch (e) {     return false;  }  return true;}if(isSessionStorage() && sessionStorage.getItem('sid') !== '3e5bec15-8ced-4227-8467-47fc2b130a31'){   sessionStorage.setItem('sid', '3e5bec15-8ced-4227-8467-47fc2b130a31');   $.get('/centrum24-web/tab');};
+Wicket.Event.publish(Wicket.Event.Topic.AJAX_HANDLERS_BOUND);
+;});
+/*]]>*/
+</script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+Wicket.Event.add(window, "load", function(event) { 
+Wicket.Timer.set('session_clock.0', function(){Wicket.Ajax.ajax({"u":"../crypt.jG8Zphcg4kOkmKtP2qqbbi5g7Q2saR9d8KsBYFf4Qzga0ksLPXvpWp5B3CNhr6ARGEolvHA62I5s8nL_XYJNaHAXE7Zk-tq4fgLXRR8K9-I/jG81a","c":"session_clock"});}, 20000);;
+;});
+/*]]>*/
+</script>
+<meta name="wicket.header.items"/>
+</head>
+<body id="body">
+
+<div id="browserNotification" style="display: none;">
+<div class="obsolete-browser-container">
+<div>
+<div class="help-line hmp-warning">
+
+<div class="text screenonly" >
+<div class="information-panel-icon primary">Nasza bankowość najlepiej działa w najnowszych przeglądarkach. Widzisz ten komunikat, ponieważ używasz starej lub niewspieranej przez nas wersji przeglądarki. Korzystanie ze starej lub niewspieranej wersji przeglądarki nie jest bezpieczne.<br />Wejdź <a href="https://www.santander.pl/klient-indywidualny/bankowosc-internetowa/wymagania-techniczne-bankowosci-internetowej-i-mobilnej#111=1" target="_blank">Tutaj</a> i zobacz, w jakich przeglądarkach bankowość internetowa będzie działać prawidłowo. To Ty decydujesz, z której przeglądarki skorzystasz. Nasza rekomendacja: Upewnij się, że używasz najnowszej wersji przeglądarki internetowej.</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="head">
+<div class="topHeader">
+<h1>
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoUCgQLJLcAPTyuQ82Rv97cObD4c1H554lN/jG81a">
+<div>
+<div class="headerLogo bankLogo"><img src="../../css/style_3/images/santander-print-logo.png" alt="Santander Bank Polska S.A."/></div>
+
+</div>
+</a>
+</h1>
+<div class="rightToolsMenu">
+<div>
+<ul id="tools">
+<div id="id12">
+
+
+<li class="recommendationProgram"><a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoU_-T214M_Mtz2AQWMaQCI7bNgzY3LxIrnr0Df9LIOZqKIVYXScdRmo0QAKV5vHTxj/jG81a">Program poleceń</a></li>
+
+
+<li class="eoffice-head"><a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoU_-T214M_Mtz2AQWMaQCI7dk2coEN4JpQR8X9XIx8afw/jG81a">eUrząd</a></li>
+
+
+<li class="virtualAdvisor"><a id="virtualAdvisor" href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoU_-T214M_Mtz2AQWMaQCI7RSQ0Eo8TgNBpBRZs1dNxH_wU-dm1QP-Ik8_TreeH6s-/jG81a">Kontakt</a></li>
+
+<li class="inbox-message" id="inbox">
+<span>
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoU_-T214M_Mtz2AQWMaQCI7VNslOaPvRG8knYTu7011G5JXu0rzYONiw/jG81a" id="inboxLink">
+<span class="element-count" id="inboxMessageCount">4</span>
+<span id="inboxLabel" class="inbox-label-full">Poczta</span>
+</a>
+
+</span>
+</li>
+
+<li class="options"><a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoU_-T214M_Mtz2AQWMaQCI7fQm6m9rDvINGUeNHIxgyTM/jG81a">Ustawienia</a></li>
+</div>
+</ul>
+<div id="main-info">
+
+
+<div class="user-wrapper">
+<div class="individual welcome">
+
+<div class="account-type">
+
+<span class="type-label">Klient indywidualny</span>
+
+
+<a class="type-link" href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoU2CxmfG3p89_4LiO7cB5ZgyM2MaQeqxqeMXSPoS0g3CzTqnYwcIwvzmH7-wjv5DXcmgoVxq6zzSi1h-Z1YPQKhX7Iu8Jh_2gmbdb8CNsGSUEgDq2mJLGaxg/jG81a">Konto firmowe</a>
+
+</div>
+
+<span class="username" aria-label="MATEUSZ R HUTA">MATEUSZ R HUTA</span>
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="logout">
+<a class="button" id="id11" href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoUEVsMR-MRrlBQErFEk1zmPg/jG81a"><span>Wyloguj</span></a>
+
+<div class="time">
+<a href="javascript:;" id="reset_clock" title="przedłuż">
+<span id="session_clock">5 min. do końca</span>
+</a>
+<div id="popup_clock" style="display:none" data-wicket-placeholder=""></div>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="bottomHeader">
+
+<div class="menu_primary">
+<ul id="menu">
+<li id="menu_portfel_24">
+
+
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoUR2Y6wXbLFGEZWZ9_cxQQopaYaICIZ2SwjgBEzrV6CSgxGZnQqYyetsT1hyZ1CY39xikBGW0Biu-_zpalVoJkbQsA2J2WN7MUVp2jv9tKRF7E9j87BzAbt52PEsPOhIQdCzko-O6oKys/jG81a" class="childmenu"><div class="childmenutext">Finanse</div></a>
+
+
+
+</li><li id="menu_customer_service">
+
+
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoUR2Y6wXbLFGEZWZ9_cxQQopaYaICIZ2SwjgBEzrV6CSgxGZnQqYyetsT1hyZ1CY39xikBGW0Biu94e4YKBZGAymzh0VL6j-JqMuuLc6TtDPEOi3u7Ey2xu0Jhz58f14OTxrSCcPmhqRw/jG81a" class="childmenu"><div class="childmenutext">Twoje sprawy</div></a>
+
+
+
+</li><li id="menu_transfers">
+
+
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoUR2Y6wXbLFGEZWZ9_cxQQopaYaICIZ2SwjgBEzrV6CSgxGZnQqYyetsT1hyZ1CY39xikBGW0Biu9FfEpDgCjz6d5kawWXqDv3joTNzLFBx3dvpgYw4PmFgddQ_vo4oV4QL2nay-kdoN0/jG81a" class="childmenu"><div class="childmenutext">Przelewy</div></a>
+
+
+
+</li><li id="menu_multichannel_your_finances">
+
+
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoUR2Y6wXbLFGEZWZ9_cxQQopaYaICIZ2SwjgBEzrV6CSgxGZnQqYyetsT1hyZ1CY39xikBGW0Biu_Cgp6AGAbwBvReRsF3z89_KX51s-Iq78s9kQv1m9cQN_-yAsfJvzax_0_h5tfXlSg/jG81a#/history" class="childmenu"><div class="childmenutext">Historia</div></a>
+
+
+
+</li><li id="menu_efx">
+
+
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoUR2Y6wXbLFGEZWZ9_cxQQopaYaICIZ2SwjgBEzrV6CSgxGZnQqYyetsT1hyZ1CY39xikBGW0Biu-LXHqM3RVv_qVnc_25DOHwfzm0WqA3gJekZLSD2efagxxocs3Ta6r4mcbNfyj18Hk/jG81a" class="childmenu"><div class="childmenutext">Kantor Santander</div></a>
+
+
+
+</li><li id="menu_arka_funds">
+
+
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoUR2Y6wXbLFGEZWZ9_cxQQopaYaICIZ2SwjgBEzrV6CSgxGZnQqYyetsT1hyZ1CY39xikBGW0Biu8jtktv6jhf3YnPSiU2r612zA8VsI3sW3n8PFxqkJNpCZ2D89grGI7AUBpSDaNZBRg/jG81a" class="childmenu"><div class="childmenutext">Fundusze inwestycyjne</div></a>
+
+
+
+</li><li id="menu_partner_services">
+
+
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoUR2Y6wXbLFGEZWZ9_cxQQopaYaICIZ2SwjgBEzrV6CSgxGZnQqYyetsT1hyZ1CY39xikBGW0Biu_UctmkclF6z_VjzJ71TAxkouD1qpZsTjiGPt5dtUv6IrkWluI51W-zvvljF6PK-rw/jG81a#" class="childmenu"><div class="childmenutext">Usługi partnerów</div></a>
+
+
+
+</li><li id="menu_brokerage_account">
+
+
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoUR2Y6wXbLFGEZWZ9_cxQQopaYaICIZ2SwjgBEzrV6CSgxGZnQqYyetsT1hyZ1CY39xikBGW0Biu-rZ2rRtFA8tBU7eIyFxJlXJ2iTJhKkfPL1NjKUeSnwb5X1xEuFOUUHtbHewoQh3ko/jG81a" class="childmenu"><div class="childmenutext">Rachunek maklerski</div></a>
+
+
+
+</li><li id="menu_offer_for_you" class="emphasized">
+
+
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbi3I-sEoJdoUR2Y6wXbLFGEZWZ9_cxQQopaYaICIZ2SwjgBEzrV6CSgxGZnQqYyetsT1hyZ1CY39xikBGW0Biu9K0FjcQZMuC-q3hy4b1ubPR5QHPb96VheEamWHICm97ddHHBmbVQI0M1cQDICcFqM/jG81a" class="childmenu"><div class="childmenutext">Oferta banku</div></a>
+
+
+
+</li>
+</ul>
+</div>
+
+
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div id="container">
+
+<div id="content">
+
+<div>
+<div class="one-col" id="transitionpage">
+<div class="box-form centered">
+<div id="PRZE" class="transitioncontent">
+<a id="next" class="close" href="../crypt.jG8Zphcg4kOkmKtP2qqbblSI-H_AgHNuIcgqiuKtIAJpMUW3aQb4DkEAdZjPmoLY/jG81a"><img src="/css/images/close-black.svg" alt="Zamknij"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<div id="content">
+
+</div>
+
+</div>
+
+<div id="contact">
+<div class="inner-contact">
+<div class="contactContent">
+<div>
+<div class="contact-line">
+<div class="helpline">
+<span class="helpline-tel-number">Infolinia: 1&nbsp;9999</span>
+<span class="helpline-tel-number minor">Z zagranicy: +48 61 81 1 9999</span>
+<span class="helpline-hours minor">&#42; Opłata za minutę połączenia zgodna z taryfą danego operatora.</span>
+</div>
+
+<div class="contact-channels">
+<a class="contact-channel" id="idf" href="javascript:;" onclick="openAdvisorOnline(&#039;C&#039;, &#039;bzwbk24&#039;, &#039;internet&#039;, &#039;cd1ef60d343cd0019abef7c7c458861c&#039;)">
+<div class="contact-method chat"></div>
+<div class="channel-name">Czat online</div>
+</a>
+<a class="contact-channel" id="ide" href="javascript:;">
+<div class="contact-method advisor"></div>
+<div class="channel-name">Doradca online</div>
+</a>
+<a class="contact-channel" href="../crypt.jG8Zphcg4kOkmKtP2qqbbn4NAW_25iLMHvA4cYsdLXjU91ULrX9_BJM6LCg4fU_faemFZzN5bhD1kolBuFUtDw/jG81a#/mailbox/newMessage">
+<div class="contact-method mailbox"></div>
+<div class="channel-name">Napisz do nas</div>
+</a>
+<div id="virtualAdvisorFooterPanel" style="display:none">
+<div id="id13" style="display:none" data-wicket-placeholder=""></div>
+</div>
+</div>
+
+
+<div class="contact-links">
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbn4NAW_25iLMHvA4cYsdLXjU91ULrX9_BKiKEHAP6eNz5811SsycHuJEoWxjGzs15w/jG81a">Dostępny bank - dokumenty</a>
+<a href="../crypt.jG8Zphcg4kOkmKtP2qqbbn4NAW_25iLMHvA4cYsdLXjU91ULrX9_BBpkRHEhyyB8EUI5760LdMJU0xRaLSvwXg/jG81a">Kursy&nbsp;walut</a>
+<a rel="noreferrer noopener" target="_blank" href="https://santander.pl/bankowosc-elektroniczna/bezpieczenstwo-i-prywatnosc/zelazne-zasady-bezpieczenstwa.html">Bezpieczeństwo</a>
+<a target="_blank" href="https://toip.santander.pl/" rel="noreferrer noopener">Taryfa&nbsp;opłat&nbsp;i&nbsp;prowizji</a>
+<a id="id10" href="javascript:;">Sesje&nbsp;przelewów</a>
+<div id="transferSessions" style="display:none">
+<div id="id14" style="display:none" data-wicket-placeholder=""></div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="foot">
+<div class="inner-foot">
+<div class="footContent">
+<strong>Santander Bank Polska S.A.</strong> z siedzibą w Warszawie, przy al. Jana Pawła II 17, 00-854 Warszawa, zarejestrowana w Sądzie Rejonowym dla m. st. Warszawy w Warszawie, XIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod nr KRS 0000008723. NIP 896-000-56-73. REGON 930041341. Wysokość kapitału zakładowego 1 021 893 140 zł. Wysokość kapitału wpłaconego 1 021 893 140 zł.
+</div>
+<div class="footContent">
+<strong>Słowniczek pojęć i definicji</strong> dotyczących usług reprezentatywnych, wynikających z rozporządzenia Ministra Rozwoju i Finansów z dnia 14 lipca 2017 r. w sprawie wykazu usług reprezentatywnych powiązanych z rachunkiem płatniczym, dostępny jest na stronie <a rel="noreferrer noopener"  href="https://santander.pl/pad.html" target="_blank">santander.pl/PAD</a> oraz w placówkach banku.
+<div>
+<br />
+<a target="_blank" href="../cookie-policy">Polityka cookies</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

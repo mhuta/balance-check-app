@@ -1,0 +1,33 @@
+{
+  "id" : "d4b925ed-6a9e-33b2-b2d7-9572aa80f425",
+  "request" : {
+    "url" : "/centrum24-web/crypt.jG8Zphcg4kNPSFnxiPwLfksmmtFHqAHw0RhyH1amGR-mgfv5IYivuV-63M-ZKsXuIeeOTqMZaSoyDXjdTjXDgxDGDZn0rvzWR0oewgKVSw8kyLR-QBKn0lwirv5uqE9F/jG81a",
+    "method" : "POST",
+    "bodyPatterns" : [ {
+      "equalTo" : "response=599-106"
+    } ]
+  },
+  "response" : {
+    "status" : 302,
+    "bodyFileName" : "body-centrum24-web-crypt.jG8Zphcg4kNPSFnxiPwLfksmmtFHqAHw0RhyH1amGR-mgfv5IYivuV-63M-ZKsXuIeeOTqMZaSoyDXjdTjXDgxDGDZn0rvzWR0oewgKVSw8kyLR-QBKn0lwirv5uqE9F-j-Z1GH1.txt",
+    "headers" : {
+      "Date" : "Thu, 03 Mar 2022 20:18:44 GMT",
+      "X-Frame-Options" : "SAMEORIGIN",
+      "Strict-Transport-Security" : [ "max-age=63072000; includeSubdomains;", "max-age=8640000; includeSubDomains" ],
+      "X-Content-Type-Options" : [ "nosniff", "nosniff" ],
+      "X-XSS-Protection" : [ "1; mode=block", "1; mode=block" ],
+      "X-OneAgent-JS-Injection" : "true",
+      "Timing-Allow-Origin" : "*",
+      "Server-Timing" : "dtRpid;desc=\"2012088927\", dtTao;desc=\"1\", dtSInfo;desc=\"0\"",
+      "Content-Security-Policy" : "default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval' www.google-analytics.com tags.tiqcdn.com stats.g.doubleclick.net es.wtp101.com data:; img-src * es.wtp101.com data:; style-src 'self' https://fonts.googleapis.com 'unsafe-inline'; font-src 'self' data: https://themes.googleusercontent.com https://fonts.gstatic.com; object-src 'self' https://do.centrum24.pl data:; connect-src 'self' wss://*.centrum24.pl",
+      "Expires" : "Thu, 01 Jan 1970 00:00:00 GMT",
+      "Pragma" : "no-cache",
+      "Cache-Control" : "no-cache, no-store",
+      "Location" : "http://localhost:8080/centrum24-web/crypt.jG8Zphcg4kOvNcKtci45EQ/jG81a",
+      "Set-Cookie" : [ "JSESSIONID=0000FBGdZrXKD9Nu5zC0MaIMCiK+1euimvfu2; Path=/centrum24-web;Secure", "AF0195d795=01725f72ae04b99ecf112136ac033214bf152623a080e7c681da7d49b94318265b0a8d06b4b3ba8f78d01416542a18c49d7b8244f9; Path=/; Domain=.www.centrum24.pl; Secure; HTTPOnly", "AF015b5bfb=01725f72ae04b99ecf112136ac033214bf152623a080e7c681da7d49b94318265b0a8d06b4b3ba8f78d01416542a18c49d7b8244f9; path=/centrum24-web; HTTPonly; Secure", "AF1f92ae8e027=0890ead335ab20006b02092dbb9cce63f6dcc73bc15ee21868d0fa653baa471d0cddb2f46965fc1808ccc476d3113000a585688d918d147eec9a38a39b95c16a6250671e13bf0458a99da1837be500e04c14564934169ca9eaa91cce2d11a84d;Path=/" ],
+      "Keep-Alive" : "timeout=30, max=97",
+      "Content-Language" : "en-US"
+    }
+  },
+  "uuid" : "d4b925ed-6a9e-33b2-b2d7-9572aa80f425"
+}

@@ -1,0 +1,661 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl" lang="pl">
+<head><script type="text/javascript" src="/centrum24-web/ruxitagentjs_ICA2Vfqru_10233220201140653.js" data-dtconfig="app=f3c5c6e953934040|ssc=1|rcdec=1209600000|featureHash=ICA2Vfqru|vcv=2|rdnt=1|uxrgce=1|bp=3|srmcrv=10|cuc=15r85uh5|mel=100000|dpvc=1|ssv=4|lastModification=1646333901444|dtVersion=10233220201140653|srmcrl=1|tp=500,50,0,1|uxdcw=1500|agentUri=/centrum24-web/ruxitagentjs_ICA2Vfqru_10233220201140653.js|reportUrl=/centrum24-web/rb_07ab5235-d303-44ce-97c9-86cf0e042d56|rid=RID_-1666661521|rpid=-548502621|domain=centrum24.pl"></script><script type="text/javascript" id="utag-sync" src="//tags.tiqcdn.com/utag/santander/pl-centrum24pl/prod/utag.sync.js"></script>
+<script type="text/javascript" id="utag" defer="defer" src="//tags.tiqcdn.com/utag/santander/pl-centrum24pl/prod/utag.js"></script>
+<script type="text/javascript" id="TealiumInitialization.js">
+/*<![CDATA[*/
+var utag_data = {
+    event_action: "View",
+    product_type: "Centrum24DashboardMultichannelPage",
+    product_name: "Centrum24DashboardMultichannelPage",
+    step: "0",
+    isLastStep: "false",
+    productIds: "[]",
+    profile_roles: "[INDIVIDUAL, ACTIVE]",
+    profile_type_id: "3"
+};
+
+/*]]>*/
+</script>
+<script type="text/javascript" src="../spa-loading-ver-3CD4C1107B7608A1BF9F6CDF6BC1ACB8"></script>
+<script type="text/javascript" src="../javascript/style_3/FYK14Fg1iU.min.js"></script>
+<script type="text/javascript" src="../jquery-ver-8FB8FEE4FCC3CC86FF6C724154C49C42.js"></script>
+<script type="text/javascript" src="../wicket-ajax-ver-04D5389C5F00ED98AD39E57EBB5AA818.js"></script>
+<script type="text/javascript" id="wicket-ajax-base-url">
+/*<![CDATA[*/
+Wicket.Ajax.baseUrl="multi/dashboard";
+/*]]>*/
+</script>
+<script type="text/javascript" id="lazySpaInit">
+/*<![CDATA[*/
+window.centrum24=(window.centrum24||{});centrum24.status=(centrum24.status||{});
+/*]]>*/
+</script>
+<link rel="stylesheet" type="text/css" href="../css/layout-ver-9667C489B18C7162F63046C47C13A241.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/nav-ver-B687AC42416A330B8D764F86EB8262CE.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/checkbox-ver-405B2BA63D0BD7C3EB889DCE6BF5A497.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/advisor-ver-00F1FDCE7C3643575F84616ACC69E281.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/session-ver-84619060BAF4BE58B9AA918EA5C4F6AC.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../css/multichannel-ver-5EA8A6477150AA765EC465D474910CF8.css" media="screen" />
+<script type="text/javascript" src="../multichannel-centrum24-web-api-ver-2DB9AFB926BB48B1725C7A7F18F13783"></script>
+<script type="text/javascript" src="../multichannel-common-api-ver-290DC8A75499CC352B70A0B5352443F8"></script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+(function(){window.centrum24=(window.centrum24||{});$.extend(window.centrum24,{"restUrl":"/centrum24-rest/api","advisorBigImageUrl":"/css/images/advisor/lightbulb.svg","advisorImageUrl":"/css/images/advisor/lightbulb.svg","currentDate":"2022-03-03","language":"pl","sessionId":"cd1ef60d343cd0019abef7c7c458861c","accessToken":"2653a7e7-fc47-47b8-9b3e-2dbbacf13f75","deviceInfo":{"platformName":"","mobile":false,"nativeApp":false,"oneApp":false,"darkMode":false,"applicationId":2}});})();
+/*]]>*/
+</script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+(function(){window.centrum24=(window.centrum24||{});$.extend(window.centrum24,{"settings":{"dashboard":{}},"isFirstLogin":false,"ajaxIndicatorUrl":"../indicator-ver-75BEEBCC0A276C3974D2524B7F0619E1.gif","productDetails-creditCardAccount":true,"sessionHash":"132380918ce921052cc91dabc0c41b1b745e17ea","resetClockId":"reset_clock","touch":false,"isCompany":false,"dashboardPfmEnabled":true,"productDetails":true,"useMongo":true});})();
+/*]]>*/
+</script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+(function(){window.centrum24.settings=(window.centrum24.settings||{});$.extend(window.centrum24.settings,{"dashboard":null});})();
+/*]]>*/
+</script>
+<link rel="stylesheet" type="text/css" href="../css/button-ver-CFFBA29161EABF7EB60C4DC1411DE0D2.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="../modal-window-ver-AEEF53CDE0FC9D41683717E687A34650.css" />
+<script type="text/javascript" src="../bootstrap-transition-ver-0A47AAFF7AFCA3B3485A6A845782947F.js"></script>
+<script type="text/javascript" src="../bootstrap-modal-ver-D73745175D40F05B339406F168BFD100.js"></script>
+<script type="text/javascript" src="../bootstrap-tooltip-ver-6AE9DC400F463921E1DED65DB0556DFC.js"></script>
+<script type="text/javascript" src="../bootstrap-popover-ver-3782DF41A2EBE1257EDED4E19F39CA02.js"></script>
+<link rel="stylesheet" type="text/css" href="../tooltip-ver-223EA11B77ABCE413741929B1A9B4338.css" />
+<script type="text/javascript" src="../greensock-ver-E1A1009CCB2E98803CCA5DA212AE435B"></script>
+<script type="text/javascript" id="GreenSockInit">
+/*<![CDATA[*/
+TweenLite.lagSmoothing(0);TweenLite.defaultEase=Sine.easeInOut;window.BzTween={defaultEaseFunction:Sine};
+/*]]>*/
+</script>
+<script type="text/javascript" src="../modernizr-ver-8E29EEF1E1AC823AC486E76ABF208ED3.js"></script>
+<script type="text/javascript" src="/multi/dashboard/polyfills.bundle.js?fa0a1712d4b3b837db49a7883682a32b"></script>
+<script type="text/javascript" src="/multi/dashboard/vendor.bundle.js?23fb6887874d6b8b6261f7abbdbc4259"></script>
+<script type="text/javascript" src="/multi/dashboard/legacy_vendor.bundle.js?613b58aac939f70bda2675ab203da770"></script>
+<script type="text/javascript" src="/multi/dashboard/legacy.bundle.js?8372cf48de487a126402bc784035935a"></script>
+<script type="text/javascript" src="/multi/dashboard/main.bundle.js?0c7e1798d5c685babb4777447963fdb4"></script>
+<link rel="stylesheet" type="text/css" href="/multi/dashboard/main.css?b720fdda0bfad8c3f6232fec291be490" />
+<script type="text/javascript" src="/spa/lib/angular/angular-locale_pl-pl.js?mn=6bd54c41"></script>
+<script type="text/javascript" src="../crypt.ASLGtmquunOF8ZO3N7a1V06RVk9NBwnIWWzzZksokClhk_17UtmK_XNnie6NAT1LbEao0aAQkRNuzlJeLJI8S5TAoEijeDYsUlzHtq_R0qpuuQCwH0or3EKsDFS6PIfo/ASL99/qpu45/sok4e"></script>
+<script type="text/javascript" src="../crypt.ASLGtmquunOF8ZO3N7a1V06RVk9NBwnIWWzzZksokClhk_17UtmK_XNnie6NAT1LbEao0aAQkRNuzlJeLJI8S5TAoEijeDYsf_Tzj3vySx0Tr98AJpoH10Tja53rxXPE/ASL99/x0Tcb/6NAb8"></script>
+<script type="text/javascript" src="../crypt.ASLGtmquunOF8ZO3N7a1V06RVk9NBwnIWWzzZksokClhk_17UtmK_XNnie6NAT1LbEao0aAQkRNuzlJeLJI8S5TAoEijeDYsLtcwmjSOkxEiuV0fEKCNz7bvHw_iz2N8MXJiq3Sczy4/ASL99/XJi86/k_11c"></script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+(function(){window.centrum24=(window.centrum24||{});$.extend(window.centrum24,{"settings":{"dashboard":{}},"isFirstLogin":false,"ajaxIndicatorUrl":"../indicator-ver-75BEEBCC0A276C3974D2524B7F0619E1.gif","productDetails-creditCardAccount":true,"sessionHash":"132380918ce921052cc91dabc0c41b1b745e17ea","resetClockId":"reset_clock","touch":false,"isCompany":false,"dashboardPfmEnabled":true,"productDetails":true,"useMongo":true});})();
+/*]]>*/
+</script>
+<script type="text/javascript" src="/javascript/crmService.js?mn=6bd54c41"></script>
+
+<style id="com-bzwbk-commons-web-view-info-ObsoleteBrowserNotificationPanel-0">
+/*<![CDATA[*/
+
+.obsolete-browser-container { position: relative; max-width: 860px; margin: 0 auto; }
+
+/*]]>*/
+</style>
+<script type="text/javascript" src="../wicket-modal-ver-3D15441E834292F7C1EAD631905AABD8.js"></script>
+<link rel="stylesheet" type="text/css" href="../wicket-modal-ver-E99D4201F0F6C5D3081AD42ACB1F22C2.css" />
+<link rel="stylesheet" type="text/css" href="../simpleModal-ver-D5FD89F8514298A81ACB30EBEDB2C0A2.css" />
+<script type="text/javascript" src="../simpleModal-ver-06139C7C7E9A9B8D9A30CFFE1BAA71FE.js"></script>
+<script type="text/javascript" src="../advisoronline-ver-AE3EBC8ACDA9217C950639CCD7A8D852.js"></script>
+<script type="text/javascript" id="coBrowsingCloseBehavior">
+/*<![CDATA[*/
+document.cookie = 'lb_stop_cobrowsing=false;domain=centrum24.pl;secure=true;path=/';
+/*]]>*/
+</script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+(function(){window.centrum24=(window.centrum24||{});$.extend(window.centrum24,{"profileId":3});})();
+/*]]>*/
+</script>
+<link rel="shortcut icon" href="/css/eSmart/favicon.ico?mn=6bd54c41" /><script type="text/javascript" src="../EncoderDecoderTogether.min-ver-CF913875C95047511108FBE2DBF7517D.js"></script>
+<script type="text/javascript" src="../crypt.ASLGtmquunOF8ZO3N7a1V06RVk9NBwnIWWzzZksokClhk_17UtmK_ec0LCnCabKzzhe1vbQDdfq2hWMfGrxyW1XzmQQ2PHixLUTSWOsptzl_2keNQwrgbMMxXrAgGNHXRAKqlvpVwGJL7DSrQmUMBcC9VCbu7PMZ5QSL_k1YzIRQHrWr0VlwQnA2m169_t87/ASL99/IRQ77/okCe6"></script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+(function(){window.centrum24=(window.centrum24||{});$.extend(window.centrum24,{"rc4key":"3213250def93ec391d93f105c6947a"});})();
+/*]]>*/
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Santander Bank Polska S.A.</title>
+<link rel="stylesheet" type="text/css" href="../santander-font.css" />
+<link rel="stylesheet" type="text/css" href="../opensans-font.css" />
+<script type="text/javascript" src="../self-xss-warning-ver-7CAEBB35E0CDECA1634B74DDDD0F807C.js"></script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+(function(){window.centrum24=(window.centrum24||{});$.extend(window.centrum24,{"accessTokenV2":"v2-vOTSWn4t-y53yH88V-DavS67aj-9vWJ32QX"});})();
+/*]]>*/
+</script>
+<script type="text/javascript" src="../feedback-survey-ver-A90ACB12D93E0FE0CE13EAC4740E31F9.js"></script>
+<link rel="stylesheet" type="text/css" href="../feedback-survey-ver-F0611F1EBB456BEC6FA3C6ACD1C95106.css" />
+<script type="text/javascript" >
+/*<![CDATA[*/
+Wicket.Event.add(window, "domready", function(event) { 
+Wicket.Ajax.ajax({"u":"./dashboard?x=9R3nENlxqYRbuFNPtMsLok3QLEcBbIzQBfWasNFeUPIbyLaenTULx_0JTvI2v1CKWdg9q8tu584","c":"shortcutsDataInit","fh":[function(attrs, jqXHR, errorMessage, textStatus){(function(){var s=centrum24.status['shortcutsData']=(centrum24.status['shortcutsData']||{});s.ready=true;s.success=false;if(s.callback){s.callback(s.success);s.callback=undefined;}})();}],"e":"click"});;
+Wicket.Ajax.ajax({"u":"./dashboard?x=9R3nENlxqYRbuFNPtMsLok3QLEcBbIzQkQ_oGg6n12wTqCU03cpTpWA-ZR8vqaIjpLPJToYa2YqxXpq8RKstmg","c":"dashboardPrelimitsAdvInit","fh":[function(attrs, jqXHR, errorMessage, textStatus){(function(){var s=centrum24.status['dashboardPrelimitsAdv']=(centrum24.status['dashboardPrelimitsAdv']||{});s.ready=true;s.success=false;if(s.callback){s.callback(s.success);s.callback=undefined;}})();}],"e":"click"});;
+Wicket.Ajax.ajax({"u":"./dashboard?x=9R3nENlxqYRbuFNPtMsLok3QLEcBbIzQkQ_oGg6n12y6dmxFkZGyr5lBlS9LsxXEecCJVaCTtLA","c":"dashboardCenterAdvInit","fh":[function(attrs, jqXHR, errorMessage, textStatus){(function(){var s=centrum24.status['dashboardCenterAdv']=(centrum24.status['dashboardCenterAdv']||{});s.ready=true;s.success=false;if(s.callback){s.callback(s.success);s.callback=undefined;}})();}],"e":"click"});;
+$('[data-toggle=tooltip]').tooltip();
+if(!((function(){try{return eval('var _\\u200c\\u200d = true; _\\u200c\\u200d;')}catch(e){return false;}})()&&(function(){'use strict';return !this;})()&&(function(){undefined=12345;var result=typeof undefined=='undefined';undefined=void 0;return result;})()&&Modernizr.cssanimations&&(function(){return Array.prototype.includes !== undefined})()&&Modernizr.customelements)){$('#browserNotification').css('display','block');};
+Wicket.Ajax.ajax({"u":"./dashboard?x=9R3nENlxqYRbuFNPtMsLoims5ge1WOl8o3M2YoowTg4b4RKeZ9fAH6CzNdJbVXwJSdHJd8sZXJiwfmafBfDhcA","c":"id15","e":"click"});;
+Wicket.Ajax.ajax({"u":"./dashboard?x=9R3nENlxqYRbuFNPtMsLoims5ge1WOl8o3M2YoowTg4b4RKeZ9fAH6CzNdJbVXwJUkR4Phhj58c","c":"id16","e":"click"});;
+Wicket.Ajax.ajax({"u":"./dashboard?x=9R3nENlxqYRbuFNPtMsLoims5ge1WOl8o3M2YoowTg4b4RKeZ9fAH60SjmzC0-88pn3fORx3O9QnUFr1LqhAR14l6suphyZn","c":"id17","e":"click"});;
+Wicket.Ajax.ajax({"u":"./dashboard?x=9R3nENlxqYRbuFNPtMsLohBu0fv7QngOD5EMNTOF3E_-HfUarQhtmgGivUJbQAhrURGL8wfNg9r8qsawxTSHsw","c":"reset_clock","pre":[function(attrs){return (!!attrs.event.which || attrs.event.target.id !== 'reset_clock');}],"e":"click"});;
+document.getElementById('id18').addEventListener('click', function() {document.cookie = 'lb_stop_cobrowsing=true;domain=centrum24.pl;secure=true;path=/';});;
+function isSessionStorage(){  var storageTestKey = 'test';  var storage = window.sessionStorage;  try {     storage.length;     storage.setItem(storageTestKey, 'test');     storage.removeItem(storageTestKey);  } catch (e) {     return false;  }  return true;}if(isSessionStorage() && sessionStorage.getItem('sid') !== '3e5bec15-8ced-4227-8467-47fc2b130a31'){   sessionStorage.setItem('sid', '3e5bec15-8ced-4227-8467-47fc2b130a31');   $.get('/centrum24-web/tab');};
+printSelfXssWarning();;
+Wicket.Event.publish(Wicket.Event.Topic.AJAX_HANDLERS_BOUND);
+;});
+/*]]>*/
+</script>
+<script type="text/javascript" >
+/*<![CDATA[*/
+Wicket.Event.add(window, "load", function(event) { 
+Wicket.Timer.set('session_clock.0', function(){Wicket.Ajax.ajax({"u":"./dashboard?x=9R3nENlxqYRbuFNPtMsLohBu0fv7QngOD5EMNTOF3E_-HfUarQhtmgGivUJbQAhrURGL8wfNg9rdcbscRuVbFKziZpsvFdxb","c":"session_clock"});}, 20000);;
+;});
+/*]]>*/
+</script>
+</head>
+<body class="desktop">
+
+
+
+
+<div id="browserNotification" style="display: none;">
+<div class="obsolete-browser-container">
+<div>
+<div class="help-line hmp-warning">
+
+<div class="text screenonly" >
+<div class="information-panel-icon primary">Nasza bankowość najlepiej działa w najnowszych przeglądarkach. Widzisz ten komunikat, ponieważ używasz starej lub niewspieranej przez nas wersji przeglądarki. Korzystanie ze starej lub niewspieranej wersji przeglądarki nie jest bezpieczne.<br />Wejdź <a href="https://www.santander.pl/klient-indywidualny/bankowosc-internetowa/wymagania-techniczne-bankowosci-internetowej-i-mobilnej#111=1" target="_blank">Tutaj</a> i zobacz, w jakich przeglądarkach bankowość internetowa będzie działać prawidłowo. To Ty decydujesz, z której przeglądarki skorzystasz. Nasza rekomendacja: Upewnij się, że używasz najnowszej wersji przeglądarki internetowej.</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div id="head">
+<div class="topHeader">
+<h1>
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKJZMwWQHWednnDMH4TxRzRyyWnjkFPfaO">
+<div>
+<div class="headerLogo bankLogo"><img src="../../css/style_3/images/santander-print-logo.png" alt="Santander Bank Polska S.A."/></div>
+
+</div>
+</a>
+</h1>
+<div class="rightToolsMenu">
+<div>
+<ul id="tools">
+<div id="id19">
+
+
+<li class="recommendationProgram"><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaK-fCe-R9fwJKCHkbOp8mGl79cuRHtB2yYJ0rvi0TfP3f4sKMaoJpqOYKFNvhZ_tl2">Program poleceń</a></li>
+
+
+<li class="eoffice-head"><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaK-fCe-R9fwJKCHkbOp8mGl2FkkuD0bz1P8TGFO7Mpkcs">eUrząd</a></li>
+
+
+<li class="virtualAdvisor"><a id="virtualAdvisor" href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaK-fCe-R9fwJKCHkbOp8mGl8ewC1xP8920Nr_PrL_v5QMcB1QOf1a2pw">Kontakt</a></li>
+
+<li class="inbox-message" id="inbox">
+<span>
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaK-fCe-R9fwJKCHkbOp8mGl_xK4RRVAkkPUSgKHzJxuPyeVGRtyKQ9IA" id="inboxLink">
+<span class="element-count" id="inboxMessageCount">4</span>
+<span id="inboxLabel" class="inbox-label-full">Poczta</span>
+</a>
+
+</span>
+</li>
+
+<li class="options"><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaK-fCe-R9fwJKCHkbOp8mGlyDUPpo-_ijTeeWQcdARZxw">Ustawienia</a></li>
+</div>
+</ul>
+<div id="main-info">
+
+
+<div class="user-wrapper">
+<div class="individual welcome">
+
+<div class="account-type">
+
+<span class="type-label">Klient indywidualny</span>
+
+
+<a class="type-link" href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKBtHY18f3tc10-ATm697n5iOrM8fFndc-NQz1jklHCXAIKO5MVJ0J22JtV3j8DJoRFp3l5njoX98HYzc5ucn-ROve2pBPhPFJiCSMfjI7OXQ">Konto firmowe</a>
+
+</div>
+
+<span class="username" aria-label="MATEUSZ R HUTA">MATEUSZ R HUTA</span>
+</div>
+</div>
+
+
+
+
+
+
+
+<div class="logout">
+<a class="button" id="id18" href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKmuqBPWRM-2msgmF99NPBtg"><span>Wyloguj</span></a>
+
+<div class="time">
+<a href="javascript:;" id="reset_clock" title="przedłuż">
+<span id="session_clock">5 min. do końca</span>
+</a>
+<div id="popup_clock" style="display:none" data-wicket-placeholder=""></div>
+</div>
+
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="bottomHeader">
+
+<div class="menu_primary">
+<ul id="menu">
+<li id="menu_portfel_24" class="selected">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDyz6-Ch7Kz4jqHKBH642osN0i57OX63-7Ts2FuyZZLnLlkefzsMSJkMKq9oRdLv9XrfbugmKIeYqf3g5Vdol76rjM4-3Fjgfgv0axcx_k95Lzwk_WaFCApv" class="childmenu"><div class="childmenutext">Finanse</div></a>
+
+
+
+</li><li id="menu_customer_service">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDyz6-Ch7Kz4jqHKBH642osN0i57OX63-7Ts2FuyZZLnLlkefzsMSJkMKq9oRdLv9XoSZc29eRLidMAjR5xTXr-XWYmiYG2-ktJsdzeXisUQuI8_yY0-3qTm" class="childmenu"><div class="childmenutext">Twoje sprawy</div></a>
+
+
+
+</li><li id="menu_transfers">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDyz6-Ch7Kz4jqHKBH642osN0i57OX63-7Ts2FuyZZLnLlkefzsMSJkMKq9oRdLv9XqbtaIFhqd4dl8nPUk7yE3m4PTIBcBz8YrZpeVfxy6T2W50xQfttRK4" class="childmenu"><div class="childmenutext">Przelewy</div></a>
+
+
+
+</li><li id="menu_multichannel_your_finances">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDyz6-Ch7Kz4jqHKBH642osN0i57OX63-7Ts2FuyZZLnLlkefzsMSJkMKq9oRdLv9Xp-o5v4ZDIr9x757Gg_RzXlwo4n3SAUrocV8btu_ZBNFmc58j_XKgVw#/history" class="childmenu"><div class="childmenutext">Historia</div></a>
+
+
+
+</li><li id="menu_efx">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDyz6-Ch7Kz4jqHKBH642osN0i57OX63-7Ts2FuyZZLnLlkefzsMSJkMKq9oRdLv9XrEwLlWTSh-5JRRO-CztGttefAotAz-1gUa0FR2fgSuRjHsKn9xKa_k" class="childmenu"><div class="childmenutext">Kantor Santander</div></a>
+
+
+
+</li><li id="menu_arka_funds">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDyz6-Ch7Kz4jqHKBH642osN0i57OX63-7Ts2FuyZZLnLlkefzsMSJkMKq9oRdLv9XqBHC8YhPR2syXNzR8ALWAfKrENkdh0jHH1M-vNUDdEj-NZa87YtBPf" class="childmenu"><div class="childmenutext">Fundusze inwestycyjne</div></a>
+
+
+
+</li><li id="menu_partner_services">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDyz6-Ch7Kz4jqHKBH642osN0i57OX63-7Ts2FuyZZLnLlkefzsMSJkMKq9oRdLv9XokWscsQ00dKo_lvqr3p4m71RC788DQMW3YJHbSpPpTEy4E2K2OMh1U#" class="childmenu"><div class="childmenutext">Usługi partnerów</div></a>
+
+
+
+</li><li id="menu_brokerage_account">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDyz6-Ch7Kz4jqHKBH642osN0i57OX63-7Ts2FuyZZLnLlkefzsMSJkMKq9oRdLv9XrquxUcmVJZDq8_MH2_vlxC_9lxX12l0RZNfHr4akI51eolV8OnlMaS" class="childmenu"><div class="childmenutext">Rachunek maklerski</div></a>
+
+
+
+</li><li id="menu_offer_for_you" class="emphasized">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDyz6-Ch7Kz4jqHKBH642osN0i57OX63-7Ts2FuyZZLnLlkefzsMSJkMKq9oRdLv9XpwapsX5hmLxQPcN9bAlPJX4Ru3nY5ijVJEOfl5g9FzR44X_qocN542" class="childmenu"><div class="childmenutext">Oferta banku</div></a>
+
+
+
+</li>
+</ul>
+</div>
+
+<div class="menu_submenu" id="sub_portfel_24">
+<ul id="menu" class="menu_additional">
+<li id="menu_new_dashboard" class="selected">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDzRl3TYD0PYAaOdZj17KRV9fWBwIf2prG9QDII7ehS8AkSklw5ulo5mzIRiHXXnRZJ3i--lmQ0jzj1p0DD5xnTRn6cxszLaaR6H2n4-609n65z62ljtlsYdQhb0mQa7LpY" class="childmenu"><div class="childmenutext">Pulpit</div></a>
+
+
+
+</li><li id="menu_all_products">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDzRl3TYD0PYAaOdZj17KRV9fWBwIf2prG9QDII7ehS8AkSklw5ulo5mzIRiHXXnRZLp-QsINNZmGSLC3p5ifrrxxEivjEoFm0GdaYY2OW1m4XycmnMompQlpIBPGjN27oA" class="childmenu"><div class="childmenutext">Wszystkie produkty</div></a>
+
+
+
+</li><li id="menu_savings">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDzRl3TYD0PYAaOdZj17KRV9fWBwIf2prG9QDII7ehS8AkSklw5ulo5mzIRiHXXnRZIT_RSl6WC11kA6z7sRk1ayqy9_IOqTlcsiz_gywznAxI3GHxcBkLtfiKRs2-BrfDQ" class="childmenu"><div class="childmenutext">Oszczędności i inwestycje</div></a>
+
+
+
+</li><li id="menu_cards">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDzRl3TYD0PYAaOdZj17KRV9fWBwIf2prG9QDII7ehS8AkSklw5ulo5mzIRiHXXnRZJwTS711ceZvj7xTbiAzIZet-VhPxMXRIwcKfhyyyjZY2n_KthiMOTkufLLDB-iweU" class="childmenu"><div class="childmenutext">Karty</div></a>
+
+
+
+</li><li id="menu_money_loans">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDzRl3TYD0PYAaOdZj17KRV9fWBwIf2prG9QDII7ehS8AkSklw5ulo5mzIRiHXXnRZKxwpRYMOXwqfwIYmXd1174kW9RBRzBdH2fokxmiD9nP-h-n1TOecwTXcKHeiZtcYA" class="childmenu"><div class="childmenutext">Kredyty gotówkowe</div></a>
+
+
+
+</li><li id="menu_mortgages">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDzRl3TYD0PYAaOdZj17KRV9fWBwIf2prG9QDII7ehS8AkSklw5ulo5mzIRiHXXnRZL3miwJcq1wXl7apoau60ijKQ3zWGq-pYeQ20IEm5u4hq90Gf0kYf5tVpG8chrrS_Y" class="childmenu"><div class="childmenutext">Kredyty hipoteczne</div></a>
+
+
+
+</li><li id="menu_insurances2">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDzRl3TYD0PYAaOdZj17KRV9fWBwIf2prG9QDII7ehS8AkSklw5ulo5mzIRiHXXnRZL--zdvsXsXtckpXy7Z7nzFYzuSOeNL93rrYPrHIooeNBfgcDdtH3QwzU_McmKhXGE" class="childmenu"><div class="childmenutext">Ubezpieczenia</div></a>
+
+
+
+</li><li id="menu_price_advisor">
+
+
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKzI0Xgn4NIaKz8vFfBZQiDzRl3TYD0PYAaOdZj17KRV9fWBwIf2prG9QDII7ehS8AkSklw5ulo5mzIRiHXXnRZI-twAjgAFJW5NsJRemrAxop5it2wA84OmxAYgF_4JI4TM1Q640ZRwMsUzSAs1Zl4U" class="childmenu"><div class="childmenutext">Poradnik cenowy</div></a>
+
+
+
+</li>
+</ul>
+</div>
+
+
+</div>
+</div>
+
+
+
+
+
+
+
+
+<div id="container">
+<div id="content">
+
+
+
+
+<input type="hidden" value="" name="navi" id="navi" scale-pitch="5251067693" scale-hint="10760545" display="1737050" scale-ratio="1280545286" scale-peak="187994160" conversion="49"/>
+
+<div id="id1a">
+<div id="id1b" style="display:none" data-wicket-placeholder=""></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+<script type="text/javascript" id="id1c">centrum24.accounts=[{"linkedVatAccount":null,"automaticSavings":false,"accessMask":511,"nrb":"74109010980000000142799897","code":142799897,"system":3,"name":"Konto Jakie Chcę","displayedName":"Konto Jakie Chcę","shortName":"Konto Jakie Chcę","userDefinedName":"","balance":-6.00,"availableFunds":0.00,"balancePLN":-6.00,"currency":"PLN","kind":"AVISTA","lastTransactionDate":"2022-02-09T23:00:00.000+00:00","vip":false,"interestRateUrl":null,"isAccountRewardsCapable":false,"eStatementAvailable":true,"isAccountCloseOptionAvailable":false,"isCompanyOwner":false,"externalBankAccount":false,"bankId":null,"overdueActive":false},{"linkedVatAccount":null,"automaticSavings":false,"accessMask":511,"nrb":"83109010980000000149479543","code":149479543,"system":3,"name":"Konto24 walutowe w EUR","displayedName":"Konto24 walutowe w EUR","shortName":"Konto24 walutowe w EUR","userDefinedName":"","balance":18.71,"availableFunds":18.71,"balancePLN":89.787419,"currency":"EUR","kind":"AVISTA","lastTransactionDate":"2022-02-27T23:00:00.000+00:00","vip":false,"interestRateUrl":null,"isAccountRewardsCapable":false,"eStatementAvailable":true,"isAccountCloseOptionAvailable":false,"isCompanyOwner":false,"externalBankAccount":false,"bankId":null,"overdueActive":false},{"linkedVatAccount":null,"automaticSavings":false,"accessMask":511,"nrb":"66109010980000000148883396","code":148883396,"system":3,"name":"Konto24 walutowe w USD","displayedName":"Konto24 walutowe w USD","shortName":"Konto24 walutowe w USD","userDefinedName":"","balance":20.00,"availableFunds":20.00,"balancePLN":86.604000,"currency":"USD","kind":"AVISTA","lastTransactionDate":"2021-11-18T23:00:00.000+00:00","vip":false,"interestRateUrl":null,"isAccountRewardsCapable":false,"eStatementAvailable":true,"isAccountCloseOptionAvailable":false,"isCompanyOwner":false,"externalBankAccount":false,"bankId":null,"overdueActive":false}];
+centrum24.cards=[];
+centrum24.tilesAccounts=[{"accountName":{"name":"Konto Jakie Chcę","userDefinedName":"","displayedName":"Konto Jakie Chcę"},"accountNumber":{"number":"74109010980000000142799897","rawNumber":"74109010980000000142799897"},"availableFunds":0.00,"balance":-6.00,"currency":"PLN","lastTransactionDate":"2022-02-09T23:00:00.000+00:00","code":142799897,"accountType":101,"accountKind":"AVISTA","interestRateUrl":null,"sudeFlag":true,"limitValue":null,"coOwner":false,"chargesPlan":1052,"productCode":125,"associatedWith123CreditCard":false,"vipAccount":false,"basicAccount":false,"jointAccount":false,"statementType":null,"creditAgreementReference":"","bankCode":null,"system":3,"accountRewardsCapableAccount":false,"eStatementAvailable":true,"standingOrderNo":null,"overdue":{"minimalAmount":0.00,"fullAmount":0.00,"daysAmount":0,"overdueOption":"NO_OVERDUE","active":false},"bonusAvailable":false,"automaticSavings":false,"associatedVatAccountCode":0,"accessMask":511,"overdueActive":false}];
+centrum24.tileCards=[];
+centrum24.newDashboardSettings={"displayedLightBox":[{"id":"newSmsCode6Characters","displayDate":"2019-07-04"},{"id":"individualTaxAccounts2020","displayDate":"2020-02-27"},{"id":"foundationWhatsNew2021_2","displayDate":"2021-06-21"},{"id":"insurancesHome2021","displayDate":"2021-09-30"},{"id":"partnerServices2021","displayDate":"2021-09-30"},{"id":"whatsNew2021.5_priceAdvisor","displayDate":"2021-11-20"},{"id":"whatsNew2021.5_fraudTransactions","displayDate":"2021-11-20"},{"id":"whatsNew2021.5.9","displayDate":"2022-02-07"}],"activeLightBoxes":[],"closedSuperTiles":null,"closedPsd2Tooltips":null,"dashboardAccountsArray":[{"accountNumber":"74109010980000000142799897","visible":true}],"dashboardAccounts":null};
+centrum24.dashboardAccounts=[{"linkedVatAccount":null,"automaticSavings":false,"accessMask":511,"nrb":"74109010980000000142799897","code":142799897,"system":3,"name":"Konto Jakie Chcę","displayedName":"Konto Jakie Chcę","shortName":"Konto Jakie Chcę","userDefinedName":"","balance":-6.00,"availableFunds":0.00,"balancePLN":-6.00,"currency":"PLN","kind":"AVISTA","lastTransactionDate":"2022-02-09T23:00:00.000+00:00","vip":false,"interestRateUrl":null,"isAccountRewardsCapable":false,"eStatementAvailable":true,"isAccountCloseOptionAvailable":false,"isCompanyOwner":false,"externalBankAccount":false,"bankId":null,"overdueActive":false},{"linkedVatAccount":null,"automaticSavings":false,"accessMask":511,"nrb":"83109010980000000149479543","code":149479543,"system":3,"name":"Konto24 walutowe w EUR","displayedName":"Konto24 walutowe w EUR","shortName":"Konto24 walutowe w EUR","userDefinedName":"","balance":18.71,"availableFunds":18.71,"balancePLN":89.787419,"currency":"EUR","kind":"AVISTA","lastTransactionDate":"2022-02-27T23:00:00.000+00:00","vip":false,"interestRateUrl":null,"isAccountRewardsCapable":false,"eStatementAvailable":true,"isAccountCloseOptionAvailable":false,"isCompanyOwner":false,"externalBankAccount":false,"bankId":null,"overdueActive":false},{"linkedVatAccount":null,"automaticSavings":false,"accessMask":511,"nrb":"66109010980000000148883396","code":148883396,"system":3,"name":"Konto24 walutowe w USD","displayedName":"Konto24 walutowe w USD","shortName":"Konto24 walutowe w USD","userDefinedName":"","balance":20.00,"availableFunds":20.00,"balancePLN":86.604000,"currency":"USD","kind":"AVISTA","lastTransactionDate":"2021-11-18T23:00:00.000+00:00","vip":false,"interestRateUrl":null,"isAccountRewardsCapable":false,"eStatementAvailable":true,"isAccountCloseOptionAvailable":false,"isCompanyOwner":false,"externalBankAccount":false,"bankId":null,"overdueActive":false}];
+centrum24.lightBoxBusinessSettings=[{"id":"newFeature","dateBegin":"2017-11-01","dateEnd":"2018-06-15","roles":[],"displayByUserRole":false},{"id":"firstLogWithTileAccount2019","dateBegin":"2019-09-01","dateEnd":"2020-06-30","roles":["individual"],"displayByUserRole":true},{"id":"migrationToTileAccount2019","dateBegin":"2019-09-01","dateEnd":"2020-06-30","roles":["individual"],"displayByUserRole":true},{"id":"welcomeInBZWBK","dateBegin":"2017-11-01","dateEnd":"2018-06-30","roles":["individual"],"displayByUserRole":true}];
+centrum24.highSecurityLevel=true;
+centrum24.marketingAgreement=true;
+centrum24.sudeAgreement=true;
+centrum24.crmAvailable=true;
+centrum24.isVip=false;
+centrum24.isPFMVisible=true;
+centrum24.isMiniCompany=false;
+centrum24.isMyCompanyPlus=false;
+centrum24.isMigrated=false;
+centrum24.isCompany=false;
+centrum24.isCompanyOwner=false;
+centrum24.gaplessDeployment=false;
+centrum24.multiCurrencyAvailable=true;
+centrum24.isPlenipotentiary=false;
+centrum24.isPlenipotentiaryWithUBE=false;
+centrum24.isParent=false;
+centrum24.isUnderaged=false;
+centrum24.firstLogAsAdult=false;
+centrum24.isSelect=false;
+centrum24.selectAgreementAvailable=true;
+centrum24.isPrivateBanking=false;
+centrum24.hasNoMobileAuthorization=true;
+centrum24.superTileAvailable=false;
+centrum24.cbtHistoryAvailable=true;
+centrum24.smsCodeAuthorization=false;
+centrum24.cbtCloneTransferAvailable=true;
+centrum24.cbtHistoryReturnTransferAvailable=true;
+centrum24.isFX24x7Available=true;
+centrum24.isFXRatesVisible=true;
+centrum24.isFXRatesNewVisible=true;
+centrum24.getFXRatesInterval=5000;
+centrum24.trustableBrowser=true;
+centrum24.browserTrustedOnLogon=false;
+centrum24.aisAggregatorAvailable=true;
+centrum24.pisAggregatorAvailable=true;
+centrum24.childUnder13=false;
+centrum24.firstLogSinceParentHasAccess=false;
+centrum24.cardsUnavailable=false;
+centrum24.ownerName="MATEUSZ R HUTA";
+centrum24.cyberRescueAvailable=true;
+centrum24.isAccessToChildProfile=false;
+centrum24.waitroomAvailable=true;
+centrum24.waitroomOrdersAmountSum=0;
+centrum24.waitingOrdersList=[];
+centrum24.loyaltyToolAvailable=true;
+centrum24.cardRenouncementAvailable=true;
+centrum24.investmentFundsModuleAvailable=true;
+centrum24.prelimitAdvertLabel="Kredyt gotówkowy bez zbędnych formalności. RRSO 16,39%";
+centrum24.prelimitAdvertLink="/centrum24-web/offerForYou";
+centrum24.prelimitAdvertAlternativeLabel="Kredyt gotówkowy bez zbędnych formalności. RRSO 16,39%";
+centrum24.prelimitAdvertAlternativeLink="/centrum24-web/offerForYou";
+centrum24.rightBannerAvailable=true;
+centrum24.topBannerAvailable=true;
+centrum24.prelimitBannerAvailable=true;
+centrum24.alternativePrelimitBannerAvailable=true;
+centrum24.newPrincipalsSinceLastLogin=[];
+centrum24.fxWhatsNew2021_2Available=true;
+centrum24.appointmentWhatsNew2021_2Available=false;
+centrum24.foundationWhatsNew2021_2Available=false;
+centrum24.goalsAvailable=true;
+centrum24.goalsModuleAvailable=true;
+centrum24.cyberRescueMassEnabled=false;
+centrum24.cyberRescueMassAvailable=true;
+centrum24.newCardsImagesSettingsMap={"VIPE":"2023-07-01","VBS2":"2025-08-01","KAFV":"2025-07-01","MCDO":"2025-09-01","MCML":"2025-09-01","VBUC":"2025-08-01","VBUD":"2025-08-01","MCWR":"2025-09-01","VSNP":"2025-08-01","MKUS":"2023-09-01","MKGB":"2023-09-01","KBCH":"2025-08-01","MCCH":"2025-09-01","VBGC":"2025-08-01","MKKS":"2025-09-01","VBEE":"2025-07-01","PLPV":"2025-08-01","CCMB":"2025-09-01","VBEU":"2025-08-01","BK98":"2025-09-01","BK97":"2025-09-01","BK96":"2025-09-01","BK95":"2023-09-01","KATV":"2025-07-01","MKDE":"2023-09-01","MCDM":"2025-09-01","KAFM":"2025-09-01"};
+centrum24.consentPolicyCookieGiven=true;
+</script>
+<div style="display: none;" id="dashboardLinkDiv">
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6Doypzo35EipW_PvAV6sJHwA2rvSLTCSjv9T4SpbnO-7MJFIVi-67ajW_rhH5J6dxJvJRySSjmu3v7BAhw" id="MENU_MORE_BANK_EXTRACT74109010980000000142799897"></a><a href="../newCardForAccount" id="MENU_CARDS_ADD74109010980000000142799897"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzoyMvB0jp6tXSL6iknjbFP06SPFWLLvTgjZi2pOuP5Pnx7oxzr0uOPL6rMOoO66XrnjZ9ivzQnfag" id="MENU_TRANSFERS_OWN_ACCOUNT74109010980000000142799897"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzoyMvB0jp6tXSL6iknjbFP0rqysF0Xf-PDW4YLh5wIU9Vucjf-6ZXDt5uOHs7ORVV84uJZO8BDrBn8ANE-1GNrJ" id="MENU_TRANSFERS_FOREIGN_ACCOUNT74109010980000000142799897"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzoyMvB0jp6tXSL6iknjbFP0GJMiSdIpJH1W1VGcsKDOn4RBMG2aCDEnZ3PCySBNS_4UlJpFNCZeMg" id="MENU_TRANSFERS_PREPAID74109010980000000142799897"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzoyMvB0jp6tXSL6iknjbFP0lyrnyvIdpJU7GjtXt74z9sGD8mFfleosuwtpNdglM7A" id="MENU_TRANSFERS_TAXES74109010980000000142799897"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzoyMvB0jp6tXSL6iknjbFP0V0iuCQQhO9N9ev1QsaxiK-f2Ucu0jf3_bFF2byQ8ogY" id="MENU_TRANSFERS_BLIK74109010980000000142799897"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzoyMvB0jp6tXSL6iknjbFP0VK9AalI9auZTOsigWEudavHrLfgFcxeHq-uNV4liKxp28OD0QUin1BYBLpT0LgoF" id="MENU_TRANSFERS_STANDING_ORDERS74109010980000000142799897"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzqnIPgju76KiuktuhQwUMWEHILVF6mbFNKIK1DsK9CDVJLDYfzZCW870aYSN1SbjXw" id="MENU_OPEN_DEPOSIT74109010980000000142799897"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6Doypzo35EipW_PvAcgazskGh4HNzKRRCf7Z-2sQ_B_HQtbRHKphX7vlU83jzNgqj4k4stkBtyjCp8aGWA" id="MENU_MORE_CHANGE_NAME74109010980000000142799897"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzpLAXZC6JmXbp9-XmVHo9bbCYaHDzi4Lt4iSLOchJV_3s76qOhn9bOTpGJWmpLBhUN5oFLptkTM1w#/history?account=74109010980000000142799897" id="ACCOUNT_OPTION_HISTORY74109010980000000142799897"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6Doypzo35EipW_PvAV6sJHwA2rvSYDgs3zHqJA40rDhgtVcJm8GOL0XwErYw22fTqAD-YPHoqNkJSJrI1w" id="MENU_MORE_BANK_EXTRACT83109010980000000149479543"></a><a href="../newCardForAccount" id="MENU_CARDS_ADD83109010980000000149479543"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzoyMvB0jp6tXSL6iknjbFP06SPFWLLvTgguPJQG8lHRbB7Jal9SYyvDYrnDTobtV1fXHWwya1avEQ" id="MENU_TRANSFERS_OWN_ACCOUNT83109010980000000149479543"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzoyMvB0jp6tXSL6iknjbFP0rqysF0Xf-PAy9P1UaV2rW_VGOkJQzkUyseZRlQMkPMm_irAY3ju4hoPsEc8dQleB" id="MENU_TRANSFERS_FOREIGN_AND_DOMESTIC83109010980000000149479543"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzqnIPgju76KiuktuhQwUMWEcBcfhuD3LYGLQX3lAE50_b7DBy9fwcvzoQCAeDMDpLc" id="MENU_OPEN_DEPOSIT83109010980000000149479543"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6Doypzo35EipW_PvAcgazskGh4HN6A_h82IYSydlqeTqfQZfpQNBwcFSPpP49ixecV87ly1cSA6ZE13IBQ" id="MENU_MORE_CHANGE_NAME83109010980000000149479543"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzpLAXZC6JmXbp9-XmVHo9bbqSThQl3-J1YqaMmV99mebGB0rSjREjq2_VynHTAoQrkXGLseVLp6ng#/history?account=83109010980000000149479543" id="ACCOUNT_OPTION_HISTORY83109010980000000149479543"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6Doypzo35EipW_PvAV6sJHwA2rvSdqKS29dIHinX0jsDEq3Kbb8iPyHbtYfLIdHnI3HVezjvQ08hHi4_Jw" id="MENU_MORE_BANK_EXTRACT66109010980000000148883396"></a><a href="../newCardForAccount" id="MENU_CARDS_ADD66109010980000000148883396"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzoyMvB0jp6tXSL6iknjbFP06SPFWLLvTggyuD-zc1nFU6MTX51VxWl1mAHLYFNXdLUUOPZvXUoeCg" id="MENU_TRANSFERS_OWN_ACCOUNT66109010980000000148883396"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzoyMvB0jp6tXSL6iknjbFP0rqysF0Xf-PAy9P1UaV2rWwX8QP9TTt7b6pYWwRZ8Z2dEYvYdXAw_A4GqagglQE5Y" id="MENU_TRANSFERS_FOREIGN_AND_DOMESTIC66109010980000000148883396"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzqnIPgju76KiuktuhQwUMWEVRxx7LYiZb6RgytZk96qF2-I2oo2o2tZ2e3MnvUNxf0" id="MENU_OPEN_DEPOSIT66109010980000000148883396"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6Doypzo35EipW_PvAcgazskGh4HNNeNOrx5Fvds3QwsOacbLtqEmu2fBsExLm-fzBfNkCXp3aH5xhKHiew" id="MENU_MORE_CHANGE_NAME66109010980000000148883396"></a><a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNKxemcgsHHaYs_zBfR7_j0B6qTsPZ6QguBzIIka0mPjcJZ7em6DoypzpLAXZC6JmXbp9-XmVHo9bb8g96M5pdiOVn8oqJCbULrHX7f4u_lrCcQH922yG1Flq3nkn4GE2Zyg#/history?account=66109010980000000148883396" id="ACCOUNT_OPTION_HISTORY66109010980000000148883396"></a>
+</div>
+
+<div id="shortcutsData">
+
+
+<a href="javascript:;" id="shortcutsDataInit"></a>
+</div>
+<md-root>
+
+<style>
+/*<![CDATA[*/
+
+.multichannel-loading-error {
+background-color: #FFFFFF;
+display: flex;
+justify-content: center;
+margin: 75px 0;
+}
+.multichannel-loading-error .error-icon {
+background: url(/css/images/alert-sign.svg) no-repeat;
+background-size: 100%;
+height: 64px;
+width: 64px;
+}
+.multichannel-loading-error .error-msg {
+color: #ec0000;
+margin: 5px 40px;
+}
+.multichannel-loading-error .title {
+color: #ec0000;
+font-size: 24px;
+text-align: center;
+}
+.multichannel-loading-error .try-again-content {
+font-size: 16px;
+cursor: pointer;
+display: flex;
+}
+.multichannel-loading-error .try-again-icon {
+background: url(/css/images/multichannel/refresher.svg) no-repeat;
+background-size: 100%;
+width: 22px;
+height: 22px;
+}
+.none {
+display: none;
+}
+
+/*]]>*/
+</style>
+<div id="spaLoadingPanel" style="display: none">
+<div class="multichannel-loading-error">
+<span class="error-icon"></span>
+<span class="error-msg">
+<div class="title">
+Przepraszamy, wystąpił błąd systemu.
+</div>
+<div class="try-again-content" onclick="spaLoadingReloadPage()">
+<span class="try-again-icon"></span>
+<span>Spróbuj ponownie</span>
+</div>
+</span>
+</div>
+</div>
+
+</md-root>
+<img src="/css/images/token-error.png" style="display:none;"/>
+<div style="display: none;">
+<div id="dashboardPrelimitsAdv">
+
+
+<a href="javascript:;" id="dashboardPrelimitsAdvInit"></a>
+</div>
+<div id="dashboardCenterAdv">
+
+
+<a href="javascript:;" id="dashboardCenterAdvInit"></a>
+</div>
+</div>
+
+</div>
+</div>
+
+<div id="contact">
+<div class="inner-contact">
+<div class="contactContent">
+<div>
+<div class="contact-line">
+<div class="helpline">
+<span class="helpline-tel-number">Infolinia: 1&nbsp;9999</span>
+<span class="helpline-tel-number minor">Z zagranicy: +48 61 81 1 9999</span>
+<span class="helpline-hours minor">&#42; Opłata za minutę połączenia zgodna z taryfą danego operatora.</span>
+</div>
+
+<div class="contact-channels">
+<a class="contact-channel" id="id16" href="javascript:;" onclick="openAdvisorOnline(&#039;C&#039;, &#039;bzwbk24&#039;, &#039;internet&#039;, &#039;cd1ef60d343cd0019abef7c7c458861c&#039;)">
+<div class="contact-method chat"></div>
+<div class="channel-name">Czat online</div>
+</a>
+<a class="contact-channel" id="id15" href="javascript:;">
+<div class="contact-method advisor"></div>
+<div class="channel-name">Doradca online</div>
+</a>
+<a class="contact-channel" href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNK0otJdSn8uAYdfVL9e5JTAlCdXes5zezeK0y85_Ub3rvuYYLOMfmfPw#/mailbox/newMessage">
+<div class="contact-method mailbox"></div>
+<div class="channel-name">Napisz do nas</div>
+</a>
+<div id="virtualAdvisorFooterPanel" style="display:none">
+<div id="id1d" style="display:none" data-wicket-placeholder=""></div>
+</div>
+</div>
+
+
+<div class="contact-links">
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNK0otJdSn8uAYdfVL9e5JTAnkkaESd4bQ6AROFyxBg-3hIqLtEJ0uVmbS4QPN3yXUsQ">Dostępny bank - dokumenty</a>
+<a href="./dashboard?x=1BJqu4JTLcaS6VFLRIpNK0otJdSn8uAYdfVL9e5JTAnkkaESd4bQ6MFkUzm8nxuwUnNmHyjnVchrHhC9Jk_GJw">Kursy&nbsp;walut</a>
+<a rel="noreferrer noopener" target="_blank" href="https://santander.pl/bankowosc-elektroniczna/bezpieczenstwo-i-prywatnosc/zelazne-zasady-bezpieczenstwa.html">Bezpieczeństwo</a>
+<a target="_blank" href="https://toip.santander.pl/" rel="noreferrer noopener">Taryfa&nbsp;opłat&nbsp;i&nbsp;prowizji</a>
+<a id="id17" href="javascript:;">Sesje&nbsp;przelewów</a>
+<div id="transferSessions" style="display:none">
+<div id="id1e" style="display:none" data-wicket-placeholder=""></div>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="foot">
+<div class="inner-foot">
+<div class="footContent">
+<strong>Santander Bank Polska S.A.</strong> z siedzibą w Warszawie, przy al. Jana Pawła II 17, 00-854 Warszawa, zarejestrowana w Sądzie Rejonowym dla m. st. Warszawy w Warszawie, XIII Wydział Gospodarczy Krajowego Rejestru Sądowego pod nr KRS 0000008723. NIP 896-000-56-73. REGON 930041341. Wysokość kapitału zakładowego 1 021 893 140 zł. Wysokość kapitału wpłaconego 1 021 893 140 zł.
+</div>
+<div class="footContent">
+<strong>Słowniczek pojęć i definicji</strong> dotyczących usług reprezentatywnych, wynikających z rozporządzenia Ministra Rozwoju i Finansów z dnia 14 lipca 2017 r. w sprawie wykazu usług reprezentatywnych powiązanych z rachunkiem płatniczym, dostępny jest na stronie <a rel="noreferrer noopener"  href="https://santander.pl/pad.html" target="_blank">santander.pl/PAD</a> oraz w placówkach banku.
+<div>
+<br />
+<a target="_blank" href="../cookie-policy">Polityka cookies</a>
+</div>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
